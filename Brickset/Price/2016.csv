@@ -1,0 +1,827 @@
+name,price,set_ID,rating
+Brick Bank,"$169.99, 149.99€ | ,7.1c, 6.3c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",10251: ,4.7
+Volkswagen Beetle,"$99.99, 89.99€ | ,8.6c, 7.7c,Box,LEGO exclusive,USA: Aug 16, UK/EU: Aug 16,Normal",10252: ,4.7
+Big Ben,"$249.99, 219.99€ | ,6.0c, 5.3c,Box,LEGO exclusive,USA: Jul 16, UK/EU: Jul 16,Normal",10253: ,4.7
+Winter Holiday Train,"$99.99, 89.99€ | ,13.6c, 12.3c,Box,Retail - limited,USA: Oct 16, UK/EU: Oct 16,Normal",10254: ,4.7
+XL Creative Brick Box,"59.99€ | ,3.7c,UK/EU: Oct 16,Normal",10654: ,4.7
+Creative Building Set,"$29.99, 24.99€ | ,5.1c, 4.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10702: ,4.7
+Creative Building Basket,"$59.99, 39.99€ | ,6.0c, 4.0c,Box,USA: Jun 16, UK/EU: Jun 16,Normal",10705: ,4.7
+Police Helicopter Chase,"$9.99, 9.99€ | ,15.9c, 15.9c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",10720: ,4.7
+Iron Man vs. Loki,"$12.99, 12.99€ | ,19.7c, 19.7c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",10721: ,4.7
+Snake Showdown,"$14.99, 14.99€ | ,16.3c, 16.3c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",10722: ,4.7
+Ariel's Dolphin Carriage,"$14.99, 13.49€ | ,21.4c, 19.3c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",10723: ,4.7
+Batman & Superman vs. Lex Luthor,"$19.99, 19.99€ | ,12.2c, 12.2c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10724: ,4.7
+Lost Temple,"$29.99, 34.99€ | ,17.4c, 20.3c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",10725: ,4.7
+Stephanie's Horse Carriage,"$12.99, 9.99€ | ,22.4c, 17.2c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10726: ,4.7
+Emma's Ice Cream Truck,"$19.99, 19.99€ | ,14.7c, 14.7c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10727: ,4.7
+Mia's Vet Clinic,"$29.99, 29.99€ | ,17.3c, 17.3c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10728: ,4.7
+Cinderella's Carriage,"$24.99, 24.99€ | ,21.5c, 21.5c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",10729: ,4.7
+Baby Animals,"$9.99, 9.99€ | ,76.8c, 76.8c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10801: ,4.7
+Savanna,"$19.99, 19.99€ | ,111.1c, 111.1c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10802: ,4.7
+Arctic,"$29.99, 29.99€ | ,75.0c, 75.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10803: ,4.7
+Jungle,"$49.99, 49.99€ | ,58.1c, 58.1c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10804: ,4.7
+Around the World,"$99.99, 99.99€ | ,61.3c, 61.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10805: ,4.7
+Horses,"$14.99, 14.99€ | ,75.0c, 75.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10806: ,4.7
+Horse Trailer,"$19.99, 19.99€ | ,133.3c, 133.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10807: ,4.7
+Little Plane,"$9.99, 9.99€ | ,76.8c, 76.8c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10808: ,4.7
+Police Patrol,"$14.99, 10.49€ | ,99.9c, 69.9c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10809: ,5.0
+Push Train,"$29.99, 29.99€ | ,66.6c, 66.6c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10810: ,5.0
+Backhoe Loader,"$14.99, 14.99€ | ,78.9c, 78.9c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",10811: ,5.0
+Truck & Tracked Excavator,"$19.99, 19.99€ | ,71.4c, 71.4c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10812: ,5.0
+Big Construction Site,"$49.99, 49.99€ | ,74.6c, 74.6c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10813: ,5.0
+Tow Truck,"$19.99, 19.99€ | ,71.4c, 71.4c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10814: ,5.0
+My First Rocket,"$9.99, 9.99€ | ,55.5c, 55.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10815: ,5.0
+My First Cars and Trucks,"$19.99, 19.99€ | ,55.5c, 55.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10816: ,5.0
+Creative Chest,"$29.99, 24.99€ | ,42.8c, 35.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10817: ,5.0
+My First Truck,"$19.99, 19.99€ | ,68.9c, 68.9c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10818: ,5.0
+My First Garden,"$19.99, 19.99€ | ,80.0c, 80.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10819: ,5.0
+Creative Construction Basket,"$59.99, 39.99€ | ,54.5c, 36.4c,USA: Aug 16, UK/EU: Jun 16,Normal",10820: ,5.0
+Sofia the First Magical Carriage,"$29.99, 29.99€ | ,100.0c, 100.0c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10822: ,5.0
+Miles' Space Adventures,"$19.99, 19.99€ | ,86.9c, 86.9c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10824: ,5.0
+Miles' Exo-Flex Suit,"$24.99, 12.49€ | ,67.5c, 33.8c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",10825: ,5.0
+Miles' Stellosphere Hangar,"$34.99, 34.99€ | ,79.5c, 79.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10826: ,5.0
+Mickey & Friends Beach House,"$34.99, 34.99€ | ,72.9c, 72.9c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10827: ,5.0
+Doc McStuffins' Pet Vet Care,"$24.99, 24.99€ | ,83.3c, 83.3c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",10828: ,5.0
+Mickey's Workshop,"$19.99, 9.99€ | ,111.1c, 55.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10829: ,5.0
+Minnie's Café,"$19.99, 19.99€ | ,74.0c, 74.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10830: ,5.0
+My First Caterpillar,"$9.99, 9.99€ | ,52.6c, 52.6c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",10831: ,5.0
+City: Build Your Own Adventure parts,,11911: ,5.0
+LEGO Star Wars: Build Your Own Adventure,,11912: ,5.0
+Venice,"$29.99, 29.99€ | ,14.1c, 14.1c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",21026: ,5.0
+Berlin,"$29.99, 29.99€ | ,10.4c, 10.4c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",21027: ,5.0
+New York City,"$59.99, 49.99€ | ,10.0c, 8.4c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",21028: ,4.2
+Buckingham Palace,"$49.99, 49.99€ | ,6.4c, 6.4c,Box,Retail - limited,USA: Sep 16, UK/EU: Sep 16,Normal",21029: ,4.2
+United States Capitol Building,"$99.99, 99.99€ | ,9.7c, 9.7c,Box,Retail - limited,USA: Sep 16, UK/EU: Sep 16,Normal",21030: ,4.2
+Burj Khalifa,"$39.99, 39.99€ | ,12.0c, 12.0c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",21031: ,4.2
+The Iron Golem,"$19.99, 19.99€ | ,9.6c, 9.6c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",21123: ,4.2
+The End Portal,"$59.99, 59.99€ | ,10.7c, 10.7c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",21124: ,4.2
+The Jungle Tree House,"$69.99, 89.99€ | ,9.9c, 12.7c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",21125: ,4.2
+The Wither,"$39.99, 34.99€ | ,12.6c, 11.0c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",21126: ,4.2
+The Fortress,"$109.99, 109.99€ | ,11.2c, 11.2c,Box,Retail,USA: Sep 16, UK/EU: Sep 16,Normal",21127: ,4.2
+The Village,"$199.99, 199.99€ | ,12.5c, 12.5c,Box,LEGO exclusive,USA: Jun 16, UK/EU: Jun 16,Normal",21128: ,4.2
+Maze,"$69.99, 69.99€ | ,9.1c, 9.1c,Box,Retail - limited,USA: Apr 16, UK/EU: Apr 16,Normal",21305: ,4.2
+The Beatles Yellow Submarine,"$59.99, 59.99€ | ,10.8c, 10.8c,Box,Retail - limited,USA: Nov 16, UK/EU: Nov 16,Normal",21306: ,4.2
+Caterham Seven 620R,"$79.99 | ,10.4c,Box,Retail - limited,Normal",21307: ,4.2
+First Order Star Destroyer,,30277: ,4.2
+Poe's X-wing Fighter,"$3.99, 4.99€ ,6.2c, 7.8c,Polybag,Retail - limited,UK/EU: Apr 17,Normal",30278: ,4.2
+Kylo Ren's Command Shuttle,,30279: ,4.2
+Duck,,30321: ,4.2
+Wildlife {Random bag},,30322: ,4.2
+Wildlife - Polar Bear,,30322: ,4.2
+Wildlife - Penguin,,30322: ,4.2
+Wildlife - Tortoise,,30322: ,4.2
+Wildlife - Lion Cub,,30322: ,4.2
+Wildlife - Elephant,,30322: ,4.2
+Prison Island Helicopter,,30346: ,4.2
+Fire Car,"$3.99 ,7.5c,Polybag,Retail - limited,Normal",30347: ,4.2
+Mini Dumper,,30348: ,4.0
+Sports Car,"$3.99 ,8.5c,Polybag,Retail - limited,Normal",30349: ,4.0
+Volcano Jackhammer,,30350: ,4.0
+Knight's Cycle,,30371: ,4.0
+Robin's Mini Fortrex,,30372: ,4.0
+Knighton Hyper Cannon,,30373: ,4.0
+The Lava Slinger,,30374: ,4.0
+Sira's Adventurous Airglider,,30375: ,4.0
+Cupcake Stall,,30396: ,4.0
+Olaf's Summertime Fun,,30397: ,4.0
+Adventure Camp Bridge,,30398: ,4.0
+Bowling Alley,"$3.99 ,7.8c,Polybag,Retail - limited,Normal",30399: ,4.0
+Skybound Plane,,30421: ,4.0
+Kai's Mini Dragon,,30422: ,4.0
+Anchor-Jet,,30423: ,4.0
+WU-CRU Training Dojo,,30424: ,4.0
+The Batmobile,"$3.99 ,6.3c,Polybag,Retail - limited,Normal",30446: ,4.0
+Captain America's Motorcycle ,,30447: ,4.0
+Spider-Man vs. The Venom Symbiote,,30448: ,4.0
+Helicopter,,30471: ,4.0
+Parrot,,30472: ,4.0
+Racer,"0.01€ ,0.0c,Polybag,UK/EU: Jan 18,Normal",30473: ,4.0
+Reindeer,"$3.49 ,4.5c,Polybag,Retail - limited,Normal",30474: ,4.0
+Scooby-Doo,,30601: ,4.0
+First Order Stormtrooper,,30602: ,4.0
+Batman Classic TV Series - Mr. Freeze,,30603: ,4.5
+Cosmic Boy,,30604: ,4.5
+Finn (FN-2187),,30605: ,4.5
+Nightwing,,30606: ,4.5
+Desert Racers,"$4.99, 4.99€ | ,7.7c, 7.7c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31040: ,4.5
+Construction Vehicles,"$4.99, 4.99€ | ,7.8c, 7.8c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31041: ,4.5
+Super Soarer,"$9.99, 9.99€ | ,10.0c, 10.0c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31042: ,4.5
+Chopper Transporter,"$9.99, 9.99€ | ,8.1c, 8.1c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31043: ,4.5
+Park Animals,"$14.99, 14.99€ | ,7.4c, 7.4c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31044: ,4.5
+Ocean Explorer,"$14.99, 14.99€ | ,7.0c, 7.0c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31045: ,4.5
+Fast Car,"$19.99, 19.99€ | ,9.0c, 9.0c,Box,Retail,USA: Dec 15, UK/EU: Jan 16,Normal",31046: ,4.5
+Propeller Plane,"$19.99, 19.99€ | ,8.7c, 8.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",31047: ,4.5
+Lakeside Lodge,"$29.99, 24.99€ | ,8.1c, 6.8c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",31048: ,4.5
+Twin Spin Helicopter,"$29.99, 29.99€ | ,9.2c, 9.2c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",31049: ,4.5
+Corner Deli,"$39.99, 34.99€ | ,8.6c, 7.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",31050: ,4.5
+Lighthouse Point,"$59.99, 49.99€ | ,11.4c, 9.5c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",31051: ,4.5
+Vacation Getaways,"$69.99, 59.99€ | ,8.8c, 7.6c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",31052: ,4.5
+Treehouse Adventures,"$34.99, 29.99€ | ,9.0c, 7.7c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",31053: ,4.5
+Space Shuttle (Uniqlo edition),,40127: ,4.5
+Robot (Uniqlo edition),,40128: ,4.5
+Koala (Uniqlo edition),,40130: ,4.5
+Parrot (Uniqlo edition),,40131: ,4.5
+What am I?,"$29.99, 34.99€ | ,5.6c, 6.5c,Box,LEGO exclusive,USA: Jun 16, UK/EU: Jun 16,Normal",40161: ,4.5
+Minifigure Wedding Favour Set,"$9.99, 7.99€ | ,11.2c, 9.0c,Box,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Normal",40165: ,4.5
+LEGOLAND Train,"$19.99 ,9.5c,Box,LEGOLAND exclusive,Normal",40166: ,4.5
+My First Set,,40167: ,3.0
+Personalised Mosaic Portrait,,40179: ,3.0
+Valentine's Cupid Dog,"$9.99, 9.99€ | ,6.7c, 6.7c,Box,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Normal",40201: ,3.0
+Easter Chick,"$9.99, 9.99€ | ,9.0c, 9.0c,Box,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Normal",40202: ,3.0
+Vampire and Bat,"$5.99 | ,4.0c,Box,LEGO exclusive,USA: Nov 16, UK/EU: Nov 16,Normal",40203: ,3.0
+Pilgrim's Feast,"$5.99 | ,3.7c,Box,LEGO exclusive,USA: Nov 16, UK/EU: Nov 16,Normal",40204: ,3.0
+Little Elf Helpers,"$9.99 | ,4.2c,Box,LEGO exclusive,USA: Nov 16, UK/EU: Nov 16,Normal",40205: ,3.0
+LEGO Santa,"$9.99 | ,6.4c,Box,LEGO exclusive,USA: Nov 16, UK/EU: Nov 16,Normal",40206: ,3.0
+Year of the Monkey,,40207: ,3.0
+Polar Bear,,40208: ,3.0
+Snowmobile,,40209: ,3.0
+Bunny,,40210: ,3.0
+Bee,,40211: ,3.0
+Hedgehog,,40212: ,3.0
+Seaplane,,40213: ,3.0
+Frog,,40214: ,3.0
+Apple,,40215: ,3.0
+School Bus,,40216: ,3.0
+Werewolf,,40217: ,3.0
+Fox,,40218: ,3.0
+Christmas Present,,40219: ,3.0
+London Bus,,40220: ,3.0
+Fountain,,40221: ,3.0
+Christmas Build-Up,"9.99€ | ,4.0c,Box,LEGO exclusive,UK/EU: Oct 18,Normal",40222: ,3.0
+Snowglobe,"$9.99, 9.99€ ,4.6c, 4.6c,Box,LEGO exclusive,UK/EU: Oct 18,Normal",40223: ,3.0
+Rio 2016 Mascots,,40225: ,4.0
+Birthday Buddy,,40226: ,4.0
+MSC Meraviglia,,40227: ,4.0
+Geoffrey & Friends,"$9.99 ,7.5c,Box,Retail - limited,Normal",40228: ,4.0
+Rapunzel's Best Day Ever,"$19.99, 24.99€ | ,13.8c, 17.2c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41065: ,4.0
+Anna & Kristoff's Sleigh Adventure,"$29.99, 29.99€ | ,17.2c, 17.2c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",41066: ,4.0
+Belle's Enchanted Castle,"$49.99, 49.99€ | ,13.4c, 13.4c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41067: ,4.0
+Arendelle Castle Celebration,"$59.99, 59.99€ | ,12.6c, 12.6c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",41068: ,4.0
+Treasure's Day at the Pool,"$5.99, 3.99€ | ,8.6c, 5.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",41069: ,4.0
+Birthday Party,"$19.99, 19.99€ | ,10.5c, 10.5c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41110: ,4.0
+Party Train,"$9.99, 9.99€ | ,9.2c, 9.2c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41111: ,4.0
+Party Cakes,"$4.99, 4.99€ | ,10.0c, 10.0c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41112: ,4.0
+Party Gift Shop,"$4.99, 4.99€ | ,9.6c, 9.6c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41113: ,4.0
+Party Styling,"$4.99, 4.99€ | ,9.2c, 9.2c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41114: ,4.0
+Emma's Creative Workshop,"$9.99, 9.99€ | ,9.3c, 9.3c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41115: ,4.0
+Olivia's Exploration Car,"$14.99, 14.99€ | ,8.1c, 8.1c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41116: ,4.0
+Pop Star TV Studio,"$19.99, 17.49€ | ,10.3c, 9.0c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41117: ,4.0
+Heartlake Supermarket,"$29.99, 34.99€ | ,9.6c, 11.2c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41118: ,4.0
+Heartlake Cupcake Cafe,"$39.99, 39.99€ | ,9.1c, 9.1c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41119: ,4.0
+Adventure Camp Archery,"$9.99, 9.99€ | ,8.8c, 8.8c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41120: ,4.0
+Adventure Camp Rafting,"$29.99, 20.99€ | ,9.4c, 6.6c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41121: ,4.0
+Adventure Camp Tree House,"$79.99, 34.99€ | ,11.0c, 4.8c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41122: ,4.0
+Foal's Washing Station,"$9.99, 9.99€ | ,13.0c, 13.0c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41123: ,4.0
+Heartlake Puppy Daycare,"$29.99, 29.99€ | ,10.5c, 10.5c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41124: ,4.0
+Horse Vet Trailer,"$39.99, 39.99€ | ,10.8c, 10.8c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41125: ,4.0
+Heartlake Riding Club,"$59.99, 64.99€ | ,10.4c, 11.3c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41126: ,5.0
+Amusement Park Arcade,"$14.99, 14.99€ | ,8.6c, 8.6c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41127: ,5.0
+Amusement Park Space Ride,"$19.99, 19.99€ | ,10.3c, 10.3c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41128: ,5.0
+Amusement Park Hot Dog Van,"$29.99, 29.99€ | ,12.3c, 12.3c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41129: ,5.0
+Amusement Park Roller Coaster,"$99.99, 99.99€ | ,8.9c, 8.9c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41130: ,5.0
+Friends Advent Calendar,"$29.99, 19.99€ | ,13.8c, 9.2c,Box,Retail,USA: Sep 16, UK/EU: Sep 16,Normal",41131: ,5.0
+Heartlake Party Shop,"$29.99, 29.99€ | ,17.0c, 17.0c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",41132: ,5.0
+Amusement Park Bumper Cars,"$39.99, 39.99€ | ,9.4c, 9.4c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",41133: ,5.0
+Heartlake Performance School,"$79.99, 79.99€ | ,10.3c, 10.3c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",41134: ,5.0
+Livi's Pop Star House,"$49.99, 54.99€ | ,8.4c, 9.2c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",41135: ,5.0
+Daisy's Beauty Salon,"$9.99, 4.99€ | ,10.2c, 5.1c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",41140: ,5.0
+Pumpkin's Royal Carriage,"$9.99, 9.99€ | ,12.6c, 12.6c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",41141: ,5.0
+Palace Pets Royal Castle,"$19.99, 19.99€ | ,10.7c, 10.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",41142: ,5.0
+Emily Jones & the Baby Wind Dragon,"$9.99, 9.99€ | ,12.5c, 12.5c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",41171: ,5.0
+The Water Dragon Adventure,"$19.99, 24.99€ | ,9.4c, 11.8c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",41172: ,5.0
+Elvendale School of Dragons,"$19.99, 19.99€ | ,8.7c, 8.7c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",41173: ,5.0
+The Starlight Inn,"$29.99, 29.99€ | ,8.7c, 8.7c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",41174: ,5.0
+Fire Dragon's Lava Cave,"$39.99, 39.99€ | ,9.1c, 9.1c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",41175: ,5.0
+The Secret Market Place,"$59.99, 29.99€ | ,8.7c, 4.3c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",41176: ,5.0
+The Precious Crystal Mine,"$29.99, 17.49€ | ,11.0c, 6.4c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41177: ,5.0
+The Dragon Sanctuary,"$49.99, 49.99€ | ,8.5c, 8.5c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41178: ,5.0
+Queen Dragon's Rescue,"$69.99, 69.99€ | ,8.4c, 8.4c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41179: ,5.0
+Ragana's Magic Shadow Castle,"$99.99, 89.99€ | ,9.9c, 8.9c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",41180: ,5.0
+Superman & Wonder Woman,"220,$39.99 ,18.2c,Box,Promotional,Normal",41490: ,5.0
+Batman & The Joker,"212,$39.99 ,18.9c,Box,Promotional,Normal",41491: ,5.0
+Iron Man & Captain America,"184,$39.99 ,21.7c,Box,Promotional,Normal",41492: ,3.0
+Black Panther & Doctor Strange,"173,$39.99 ,23.1c,Box,Promotional,Normal",41493: ,3.0
+Kuffs,"$4.99, 1.99€ | ,7.9c, 3.2c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41554: ,3.0
+Busto,"$4.99, 1.99€ | ,7.2c, 2.9c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41555: ,3.0
+Tiketz,"$4.99, 1.99€ | ,8.0c, 3.2c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41556: ,3.0
+Camillot,"$4.99, 1.99€ | ,7.8c, 3.1c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41557: ,3.0
+Mixadel,"$4.99, 1.99€ | ,7.9c, 3.2c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41558: ,3.0
+Paladum,"$4.99, 1.99€ | ,7.8c, 3.1c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41559: ,3.0
+Jamzy,"$4.99, 1.99€ | ,7.1c, 2.8c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41560: ,3.0
+Tapsy,"$4.99, 1.99€ | ,8.8c, 3.5c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41561: ,3.0
+Trumpsy,"$4.99, 1.99€ | ,9.2c, 3.7c,Foil pack,Retail,USA: Feb 16, UK/EU: Feb 16,Normal",41562: ,3.0
+Splasho,"$4.99, 3.99€ | ,7.4c, 6.0c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41563: ,3.0
+Aquad,"$4.99, 3.99€ | ,7.1c, 5.7c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41564: ,3.0
+Hydro,"$4.99, 3.99€ | ,7.1c, 5.7c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41565: ,3.0
+Sharx,"$4.99, 3.99€ | ,9.1c, 7.3c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41566: ,3.0
+Skulzy,"$4.99, 3.99€ | ,7.6c, 6.0c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41567: ,3.0
+Lewt,"$4.99, 3.99€ | ,8.0c, 6.4c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41568: ,3.0
+Surgeo,"$4.99, 3.99€ | ,7.9c, 6.3c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41569: ,3.0
+Skrubz,"$4.99, 3.99€ | ,7.3c, 5.9c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41570: ,3.0
+Tuth,"$4.99, 3.99€ | ,7.4c, 6.0c,Foil pack,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",41571: ,3.0
+Gobbol,"$4.99, 3.99€ | ,8.0c, 6.4c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41572: ,3.0
+Sweepz,"$4.99, 3.99€ | ,8.2c, 6.5c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41573: ,3.0
+Compax,"$4.99, 3.99€ | ,7.6c, 6.0c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41574: ,3.0
+Cobrax,"$4.99, 3.99€ | ,7.8c, 6.2c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41575: ,3.0
+Spinza,"$4.99, 3.99€ | ,8.3c, 6.7c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41576: ,3.0
+Mysto,"$4.99, 3.99€ | ,7.8c, 6.2c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41577: ,4.5
+Screeno,"$4.99, 3.99€ | ,6.8c, 5.5c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41578: ,4.5
+Camsta,"$4.99, 3.99€ | ,8.0c, 6.4c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41579: ,4.5
+Myke,"$4.99, 3.99€ | ,7.9c, 6.3c,Foil pack,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",41580: ,4.5
+Display Team Jet,"$12.99, 9.99€ | ,11.5c, 8.8c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",42044: ,4.5
+Hydroplane Racer,"$19.99, 14.99€ | ,11.1c, 8.3c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",42045: ,4.5
+Getaway Racer,"$19.99, 19.99€ | ,11.8c, 11.8c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",42046: ,4.5
+Police Interceptor,"$19.99, 19.99€ | ,10.8c, 10.8c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",42047: ,4.5
+Race Kart,"$29.99, 26.99€ | ,8.7c, 7.8c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",42048: ,4.5
+Mine Loader,"$49.99, 39.99€ | ,10.5c, 8.4c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",42049: ,4.5
+Drag Racer,"$79.99, 59.99€ | ,12.4c, 9.3c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",42050: ,4.5
+Heavy Lift Helicopter,"$139.99, 119.99€ | ,13.4c, 11.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",42052: ,4.5
+Volvo EW160E,"$119.99, 89.99€ | ,10.3c, 7.7c,Box,Retail,USA: Aug 16, UK/EU: Jul 16,Normal",42053: ,4.5
+CLAAS XERION 5000 TRAC VC,"$179.99, 149.99€ | ,9.1c, 7.6c,Box,Retail,USA: Aug 16, UK/EU: Jul 16,Normal",42054: ,4.5
+Bucket Wheel Excavator,"$279.99, 229.99€ | ,7.1c, 5.9c,Box,Retail,USA: Aug 16, UK/EU: Jul 16,Normal",42055: ,4.5
+Porsche 911 GT3 RS,"$299.99, 299.99€ | ,11.1c, 11.1c,Box,Retail - limited,USA: Jul 16, UK/EU: Jul 16,Normal",42056: ,4.5
+Wild Animals Set,,45012: ,4.5
+StoryTales Set,,45014: ,4.5
+Tubes Experiment Set,,45016: ,4.5
+Playground Set,,45017: ,4.5
+Build Me 'Emotions',,45018: ,4.5
+Creative LEGO DUPLO Brick Set,,45019: ,4.5
+Creative LEGO Brick Set,,45020: ,4.5
+WeDo 2.0 Core Set,,45300: ,4.5
+WeDo 2.0 Smart Hub,,45301: ,4.5
+WeDo 2.0 Smarthub Rechargeable Battery,,45302: ,4.0
+WeDo 2.0 Medium Motor,"12.99€ | ,1299.0c,Educational,Normal",45303: ,4.0
+WeDo 2.0 Motion Sensor,,45304: ,4.0
+WeDo 2.0 Tilt Sensor,,45305: ,4.0
+Animal Allies,,45802: ,4.0
+Creature Craze Inspire Set,,45803: ,4.0
+World Robot Olympiad Brick Set,,45811: ,4.0
+Airport Starter Set,"$9.99, 9.99€ | ,12.3c, 12.3c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60100: ,4.0
+Airport Cargo Plane,"$24.99, 19.99€ | ,15.9c, 12.7c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60101: ,4.0
+Airport VIP Service,"$49.99, 49.99€ | ,13.7c, 13.7c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60102: ,4.0
+Airport Air Show,"$89.99, 79.99€ | ,13.4c, 11.9c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60103: ,4.0
+Airport Passenger Terminal,"$99.99, 99.99€ | ,14.4c, 14.4c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",60104: ,4.0
+Fire ATV,"$6.99, 5.99€ | ,10.9c, 9.4c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60105: ,4.0
+Fire Starter Set,"$9.99, 9.99€ | ,11.1c, 11.1c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60106: ,4.0
+Fire Ladder Truck,"$24.99, 19.99€ | ,11.7c, 9.3c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60107: ,4.0
+Fire Response Unit,"$39.99, 20.99€ | ,15.6c, 8.2c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60108: ,4.0
+Fire Boat,"$79.99, 69.99€ | ,19.4c, 17.0c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60109: ,4.0
+Fire Station,"$99.99, 69.99€ | ,10.9c, 7.6c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60110: ,4.0
+Fire Utility Truck,"$39.99, 24.49€ | ,10.9c, 6.7c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60111: ,4.0
+Fire Engine,"$49.99, 39.99€ | ,13.3c, 10.6c,Box,Retail - limited,USA: Jan 16, UK/EU: Dec 15,Normal",60112: ,4.0
+Rally Car,"$9.99, 9.99€ | ,9.6c, 9.6c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60113: ,4.0
+Race Boat,"$9.99, 9.99€ | ,10.5c, 10.5c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60114: ,4.0
+4 x 4 Off Roader,"$19.99, 19.99€ | ,11.4c, 11.4c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60115: ,4.0
+Ambulance Plane,"$19.99, 19.99€ | ,10.9c, 10.9c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60116: ,4.0
+Van & Caravan,"$19.99, 19.99€ | ,8.0c, 8.0c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60117: ,4.0
+Garbage Truck,"$19.99, 19.99€ | ,8.1c, 8.1c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60118: ,4.8
+Ferry,"$29.99, 29.99€ | ,10.0c, 10.0c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60119: ,4.8
+Volcano Starter Set,"$9.99, 9.99€ | ,12.0c, 12.0c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",60120: ,4.8
+Volcano Exploration Truck,"$24.99, 19.99€ | ,14.3c, 11.4c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60121: ,4.8
+Volcano Crawler,"$39.99, 29.99€ | ,12.3c, 9.3c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60122: ,4.8
+Volcano Supply Helicopter,"$49.99, 49.99€ | ,15.1c, 15.1c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60123: ,4.8
+Volcano Exploration Base,"$119.99, 99.99€ | ,14.6c, 12.1c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",60124: ,4.8
+Volcano Heavy-Lift Helicopter,"$149.99, 129.99€ | ,11.7c, 10.2c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",60125: ,4.8
+Tire Escape,"$6.99, 5.99€ | ,14.9c, 12.7c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60126: ,4.8
+Prison Island Starter Set,"$9.99, 9.99€ | ,10.9c, 10.9c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60127: ,4.8
+Police Pursuit,"$24.99, 19.99€ | ,13.6c, 10.9c,Box,Retail,USA: Dec 15, UK/EU: Dec 15,Normal",60128: ,4.8
+Police Patrol Boat,"$49.99, 39.99€ | ,25.0c, 20.0c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60129: ,4.8
+Prison Island,"$89.99, 79.99€ | ,11.9c, 10.6c,Box,Retail,USA: Jan 16, UK/EU: Dec 15,Normal",60130: ,4.8
+Crooks Island,"$29.99, 29.99€ | ,12.3c, 12.3c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",60131: ,4.8
+Service Station,"$89.99, 69.99€ | ,17.5c, 13.6c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60132: ,4.8
+City Advent Calendar,"$29.99, 19.99€ | ,10.3c, 6.9c,Box,Retail,USA: Sep 16, UK/EU: Sep 16,Normal",60133: ,4.8
+People Pack - Fun in the Park,"$39.99, 39.99€ | ,25.5c, 25.5c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",60134: ,4.8
+3-in-1 Super Pack,,66537: ,4.8
+Forests Value Pack,,66538: ,4.8
+Heartlake Value Pack,,66539: ,4.8
+City Volcano Value Pack,,66540: ,4.8
+City Fire Value Pack,,66541: ,4.8
+Microfighters Super Pack 3 in 1,,66542: ,4.8
+Microfighters Super Pack 3 in 1,,66543: ,4.8
+Mighty Micros Mighty Pack 3 in 1,,66545: ,4.8
+"Axl's Tower Carrier, Extra Awesome Edition",,66547: ,4.0
+"Rock Roader, Extra Awesome Edition",,66548: ,4.0
+"Salvage M.E.C., Extra Awesome Edition",,66549: ,4.0
+Knighton Battle Blaster,"$9.99, 6.99€ | ,13.1c, 9.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70310: ,4.0
+Chaos Catapult,"$9.99, 9.99€ | ,10.7c, 10.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70311: ,4.0
+Lance's Mecha Horse,"$19.99, 13.99€ | ,8.4c, 5.9c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70312: ,4.0
+Moltor's Lava Smasher,"$19.99, 19.99€ | ,10.7c, 10.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70313: ,4.0
+Beast Master's Chaos Chariot,"$29.99, 23.09€ | ,9.6c, 7.4c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70314: ,4.0
+Clay's Rumble Blade,"$39.99, 27.99€ | ,10.9c, 7.6c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70315: ,4.0
+Jestro's Evil Mobile,"$59.99, 34.99€ | ,9.1c, 5.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70316: ,4.0
+The Fortrex,"$99.99, 99.99€ | ,8.8c, 8.8c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70317: ,4.0
+The Glob Lobber,"$9.99, 9.99€ | ,10.5c, 10.5c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70318: ,4.0
+Macy's Thunder Mace,"$19.99, 19.99€ | ,9.9c, 9.9c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70319: ,4.0
+Aaron Fox's Aero-Striker V2,"$29.99, 32.99€ | ,10.0c, 11.0c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70320: ,4.0
+General Magmar's Siege Machine of Doom,"$49.99, 49.99€ | ,9.7c, 9.7c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70321: ,4.0
+Axl's Tower Carrier,"$69.99, 79.99€ | ,10.4c, 11.9c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70322: ,4.0
+Jestro's Volcano Lair,"$119.99, 119.99€ | ,10.1c, 10.1c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70323: ,4.0
+Merlok's Library 2.0,"$24.99, 24.99€ | ,8.7c, 8.7c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",70324: ,4.0
+Infernox captures the Queen,"$24.99, 12.49€ | ,9.9c, 4.9c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",70325: ,4.0
+The Black Knight Mech,"$39.99, 49.99€ | ,7.5c, 9.4c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",70326: ,4.0
+The King's Mech,"$29.99, 32.99€ | ,8.0c, 8.8c,Box,Retail - limited,USA: Jan 16, UK/EU: Jan 16,Normal",70327: ,4.0
+Ultimate Clay,"$9.99, 6.99€ | ,13.9c, 9.7c,Box with backing card,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70330: ,4.0
+Ultimate Macy,"$9.99, 9.99€ | ,9.9c, 9.9c,Box with backing card,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70331: ,4.0
+Ultimate Aaron,"$9.99, 9.99€ | ,12.2c, 12.2c,Box with backing card,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70332: ,4.0
+Ultimate Robin,"$9.99, 9.99€ | ,13.3c, 13.3c,Box with backing card,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70333: ,4.0
+Ultimate Beast Master,"$9.99, 9.99€ | ,15.4c, 15.4c,Box with backing card,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70334: ,3.7
+Ultimate Lavaria,"$9.99, 4.99€ | ,14.5c, 7.2c,Box with backing card,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",70335: ,3.7
+Ultimate Axl,"$9.99, 9.99€ | ,14.5c, 14.5c,Box with backing card,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70336: ,3.7
+Ultimate Lance,"$9.99, 9.99€ | ,13.3c, 13.3c,Box with backing card,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70337: ,3.7
+Ultimate General Magmar,"$9.99, 9.99€ | ,15.6c, 15.6c,Box with backing card,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70338: ,3.7
+Ultimate Flama,"$9.99, 9.99€ | ,14.9c, 14.9c,Box with backing card,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70339: ,3.7
+Titanium Ninja Tumbler ,"$29.99, 29.99€ | ,8.8c, 8.8c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",70588: ,3.7
+Rock Roader,"$39.99, 39.99€ | ,9.8c, 9.8c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70589: ,3.7
+Airjitzu Battle Grounds,"$59.99, 59.99€ | ,9.0c, 9.0c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",70590: ,3.7
+Kryptarium Prison Breakout,"$19.99, 19.99€ | ,9.7c, 9.7c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70591: ,3.7
+Salvage M.E.C.,"$39.99, 39.99€ | ,9.1c, 9.1c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70592: ,3.7
+The Green NRG Dragon,"$49.99, 49.99€ | ,8.8c, 8.8c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70593: ,3.7
+The Lighthouse Siege,"$69.99, 69.99€ | ,9.1c, 9.1c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70594: ,3.7
+Ultra Stealth Raider,"$99.99, 89.99€ | ,9.1c, 8.2c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",70595: ,3.7
+Samurai X Cave Chaos,"$119.99, 119.99€ | ,9.6c, 9.6c,Box,Retail - limited,USA: Aug 16, UK/EU: Jun 16,Normal",70596: ,3.7
+Cole's Dragon,"$9.99, 9.99€ | ,10.2c, 10.2c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70599: ,3.7
+Ninja Bike Chase,"$19.99, 19.99€ | ,8.7c, 8.7c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70600: ,3.7
+Sky Shark,"$19.99, 19.99€ | ,9.0c, 9.0c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70601: ,3.7
+Jay's Elemental Dragon,"$29.99, 34.99€ | ,8.6c, 10.0c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70602: ,3.7
+Raid Zeppelin,"$29.99, 32.99€ | ,10.2c, 11.2c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70603: ,3.7
+Tiger Widow Island,"$49.99, 49.99€ | ,11.1c, 11.1c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70604: ,3.7
+Misfortune's Keep,"$79.99, 89.99€ | ,10.6c, 11.9c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",70605: ,3.7
+LEGO Minifigures - Series 15 {Random bag},"$3.99 ,Foil pack,Retail,Random",71011: ,3.7
+Farmer,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71011: ,3.7
+Astronaut,"8,$3.99 ,49.9c,Foil pack,Retail,Normal",71011: ,3.7
+Frightening Knight,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71011: ,4.8
+Clumsy Guy,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71011: ,4.8
+Tribal Woman,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71011: ,4.8
+Flying Warrior,"10,$3.99 ,39.9c,Foil pack,Retail,Normal",71011: ,4.8
+Faun,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71011: ,4.8
+Animal Control Officer,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71011: ,4.8
+Janitor,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71011: ,4.8
+Ballerina,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71011: ,4.8
+Laser Mech,"8,$3.99 ,49.9c,Foil pack,Retail,Normal",71011: ,4.8
+Kendo Fighter,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71011: ,4.8
+Shark Suit Guy,"4,$3.99 ,99.8c,Foil pack,Retail,Normal",71011: ,4.8
+Wrestling Champion,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71011: ,4.8
+Jewel Thief,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71011: ,4.8
+Queen,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71011: ,4.8
+LEGO Minifigures - Series 15 - Complete,,71011: ,4.8
+LEGO Minifigures - Series 15 - Sealed Box,"2.09€ | ,Box,Retail,USA: Feb 16, UK/EU: Jan 16,Collection",71011: ,4.8
+LEGO Minifigures - The Disney Series {Random bag},"$3.99 ,Foil pack,Retail,Random",71012: ,4.8
+Stitch,"3,$3.99 ,133.0c,Foil pack,Retail,Normal",71012: ,4.8
+Alien,"3,$3.99 ,133.0c,Foil pack,Retail,Normal",71012: ,4.8
+Buzz Lightyear,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71012: ,4.8
+Aladdin,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71012: ,4.8
+Genie,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71012: ,4.8
+Maleficent,"9,$3.99 ,44.3c,Foil pack,Retail,Normal",71012: ,4.8
+Alice,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71012: ,4.8
+Cheshire Cat,"4,$3.99 ,99.8c,Foil pack,Retail,Normal",71012: ,4.8
+Daisy Duck,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71012: ,4.0
+Donald Duck,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71012: ,4.0
+Minnie Mouse,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71012: ,4.0
+Mickey Mouse,"3,$3.99 ,133.0c,Foil pack,Retail,Normal",71012: ,4.0
+Mr. Incredible,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71012: ,4.0
+Syndrome,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71012: ,4.0
+Peter Pan,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71012: ,4.0
+Captain Hook,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71012: ,4.0
+Ursula,"5,$3.99, 2.99€ | ,79.8c, 59.8c,Foil pack,Retail,USA: May 16, UK/EU: May 16,Normal",71012: ,4.0
+Ariel,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71012: ,4.0
+LEGO Minifigures - The Disney Series - Complete,,71012: ,4.0
+LEGO Minifigures - The Disney Series - Sealed Box,,71012: ,4.0
+LEGO Minifigures - Series 16 {Random bag},,71013: ,4.0
+Ice Queen,"11,$3.99 ,36.3c,Foil pack,Retail,Normal",71013: ,4.0
+Desert Warrior,"5,$3.99 ,79.8c,Foil pack,Retail,Normal",71013: ,4.0
+Cyborg,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71013: ,4.0
+Cute Little Devil,"9,$3.99 ,44.3c,Foil pack,Retail,Normal",71013: ,4.0
+Spooky Boy,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,4.0
+Hiker,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71013: ,4.0
+Wildlife Photographer,"7,$3.99 ,57.0c,Foil pack,Retail,Normal",71013: ,4.0
+Kickboxer,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,4.0
+Scallywag Pirate,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,4.0
+Penguin Boy,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,4.0
+Rogue,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,4.0
+Dog Show Winner,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,4.0
+Mariachi,"6,$3.99 ,66.5c,Foil pack,Retail,Normal",71013: ,5.0
+Spy,"8,$3.99 ,49.9c,Foil pack,Retail,Normal",71013: ,5.0
+Banana Guy,"4,$3.99 ,99.8c,Foil pack,Retail,Normal",71013: ,5.0
+Babysitter,"6,$3.99, 2.99€ | ,66.5c, 49.8c,Foil pack,Retail,USA: Jul 16, UK/EU: Sep 16,Normal",71013: ,5.0
+LEGO Minifigures - Series 16 - Complete,,71013: ,5.0
+LEGO Minifigures - Series 16 - Sealed Box,,71013: ,5.0
+LEGO Minifigures - DFB Series {Random bag},,71014: ,5.0
+Joachim Löw,,71014: ,5.0
+Manuel Neuer,,71014: ,5.0
+Jérôme Boateng,,71014: ,5.0
+Mats Hummels,,71014: ,5.0
+Benedikt Höwedes,,71014: ,5.0
+Shkodran Mustafi,,71014: ,5.0
+Bastian Schweinsteiger,,71014: ,5.0
+Mesut Özil,,71014: ,5.0
+Thomas Müller,,71014: ,5.0
+Toni Kroos,,71014: ,5.0
+Sami Khedira,,71014: ,5.0
+André Schürrle,,71014: ,5.0
+Marco Reus,,71014: ,5.0
+Christoph Kramer,,71014: ,5.0
+Mario Götze,,71014: ,5.0
+Max Kruse,"6,2.99€ | ,49.8c,Foil pack,Retail - limited,UK/EU: May 16,Normal",71014: ,5.0
+LEGO Minifigures - DFB Series - Complete,,71014: ,5.0
+LEGO Minifigures - DFB Series - Sealed Box,,71014: ,5.0
+Disney Castle,"$349.99, 349.99€ | ,8.6c, 8.6c,Box,LEGO exclusive,USA: Oct 16, UK/EU: Sep 16,Normal",71040: ,5.0
+Ghostbusters Level Pack,"$29.99, 29.99€ | ,26.1c, 26.1c,Box,Retail,USA: Jan 16, UK/EU: Feb 16,Normal",71228: ,5.0
+DC Comics Team Pack,"$24.99, 24.99€ | ,27.2c, 27.2c,USA: Jan 16, UK/EU: Feb 16,Normal",71229: ,5.0
+Doc Brown,"$11.99, 14.99€ | ,17.4c, 21.7c,Box,Retail,USA: Jan 16, UK/EU: Feb 16,Normal",71230: ,5.0
+Stay Puft,"$11.99, 14.99€ | ,18.4c, 23.1c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",71233: ,5.0
+Sensei Wu,"$11.99, 14.99€ | ,20.7c, 25.8c,Box,Retail,USA: Jan 16, UK/EU: Feb 16,Normal",71234: ,5.0
+Midway Arcade Level Pack,"$24.99, 29.99€ | ,26.0c, 31.2c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",71235: ,5.0
+Superman,"$11.99, 14.99€ | ,25.0c, 31.2c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",71236: ,5.0
+Aquaman,"$11.99, 14.99€ | ,27.9c, 34.9c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",71237: ,5.0
+Cyberman,"$11.99, 14.99€ | ,30.0c, 37.5c,Box,Retail,USA: Jan 16, UK/EU: Feb 16,Normal",71238: ,5.0
+Lloyd,"$11.99, 14.99€ | ,21.4c, 26.8c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",71239: ,5.0
+Bane,"$11.99, 14.99€ | ,23.1c, 28.8c,Box,Retail,USA: May 16, UK/EU: May 16,Normal",71240: ,5.0
+Slimer,"$11.99, 14.99€ | ,36.3c, 45.4c,Box,Retail,USA: May 16, UK/EU: Jun 16,Normal",71241: ,5.0
+New Ghostbusters: Play the Complete Movie,"$49.99, 22.49€ | ,19.3c, 8.7c,Box,Retail,USA: Sep 16, UK/EU: Nov 16,Normal",71242: ,5.0
+Sonic the Hedgehog Level Pack,"$29.99, 29.99€ | ,29.7c, 29.7c,Box,Retail,USA: Nov 16, UK/EU: Nov 16,Normal",71244: ,5.0
+Adventure Time Level Pack,"$29.99, 14.99€ | ,29.4c, 14.7c,Box,Retail,USA: Sep 16, UK/EU: Nov 16,Normal",71245: ,5.0
+Adventure Time Team Pack ,"$24.99, 12.49€ | ,26.0c, 13.0c,Box,Retail,USA: Sep 16, UK/EU: Nov 16,Normal",71246: ,5.0
+Harry Potter Team Pack,"$24.99, 24.99€ | ,21.0c, 21.0c,Box,Retail,USA: Sep 16, UK/EU: Nov 16,Normal",71247: ,5.0
+Mission Impossible Level Pack,"$29.99, 14.99€ | ,39.5c, 19.7c,Box,Retail,USA: Sep 16, UK/EU: Nov 16,Normal",71248: ,5.0
+B.A. Baracus,"$11.99, 7.49€ | ,16.4c, 10.3c,Box,Retail,USA: Sep 16, UK/EU: Nov 16,Normal",71251: ,5.0
+Fantastic Beasts and Where to Find Them: Play the Complete Movie,"$49.99, 44.99€ | ,19.2c, 17.2c,Box,Retail,USA: Nov 16, UK/EU: Nov 16,Normal",71253: ,5.0
+Gremlins Team Pack,"$24.99, 24.99€ | ,26.6c, 26.6c,Box,Retail,USA: Nov 16, UK/EU: Nov 16,Normal",71256: ,5.0
+Tina Goldstein,"$11.99, 14.99€ | ,23.5c, 29.4c,Box,Retail,USA: Nov 16, UK/EU: Nov 16,Normal",71257: ,5.0
+E.T.,"$11.99, 14.99€ | ,28.5c, 35.7c,Box,Retail,USA: Nov 16, UK/EU: Nov 16,Normal",71258: ,5.0
+Marceline the Vampire Queen,"$11.99 ,20.0c,Box,Retail - limited,Normal",71285: ,5.0
+Uxar - Creature of Jungle,"$9.99, 9.99€ | ,11.2c, 11.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71300: ,4.0
+Ketar - Creature of Stone,"$9.99, 9.99€ | ,12.5c, 12.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71301: ,4.0
+Akida - Creature of Water,"$9.99, 9.99€ | ,8.3c, 8.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71302: ,4.0
+Ikir - Creature of Fire,"$9.99, 9.99€ | ,13.0c, 13.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71303: ,4.0
+Terak - Creature of Earth,"$9.99, 9.99€ | ,13.5c, 13.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71304: ,4.0
+Lewa - Uniter of Jungle,"$14.99, 14.99€ | ,19.0c, 19.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71305: ,4.0
+Pohatu - Uniter of Stone,"$14.99, 14.99€ | ,16.7c, 16.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71306: ,4.0
+Gali - Uniter of Water,"$14.99, 14.99€ | ,17.2c, 17.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71307: ,4.0
+Tahu - Uniter of Fire,"$19.99, 19.99€ | ,15.1c, 15.1c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71308: ,4.0
+Onua - Uniter of Earth,"$19.99, 19.99€ | ,14.0c, 14.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71309: ,4.0
+Umarak the Hunter,"$19.99, 19.99€ | ,11.6c, 11.6c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71310: ,4.0
+Kopaka and Melum - Unity set,"$24.99, 17.49€ | ,14.6c, 10.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",71311: ,4.0
+Ekimu the Mask Maker,"$14.99, 14.99€ | ,15.9c, 15.9c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",71312: ,4.0
+Lava Beast,"$14.99, 14.99€ | ,13.1c, 13.1c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",71313: ,4.0
+Storm Beast,"$14.99, 14.99€ | ,13.8c, 13.8c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",71314: ,4.0
+Quake Beast,"$14.99, 14.99€ | ,14.7c, 14.7c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",71315: ,4.0
+Umarak the Destroyer,"$24.99, 24.99€ | ,13.1c, 13.1c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",71316: ,4.0
+Supergirl,,71340: ,4.0
+Green Arrow,,71342: ,4.0
+Assault on Hoth,"$249.99, 249.99€ | ,11.7c, 11.7c,Box,LEGO exclusive,USA: May 16, UK/EU: Apr 16,Normal",75098: ,4.0
+Rey,"$19.99, 19.99€ | ,23.8c, 23.8c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75113: ,4.0
+First Order Stormtrooper,"$19.99, 19.99€ | ,24.7c, 24.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75114: ,4.0
+Poe Dameron,"$24.99, 12.49€ | ,24.5c, 12.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75115: ,4.0
+Finn,"$24.99, 24.99€ | ,25.5c, 25.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75116: ,4.0
+Kylo Ren,"$24.99, 24.99€ | ,29.1c, 29.1c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75117: ,4.0
+Captain Phasma,"$24.99, 24.99€ | ,30.5c, 30.5c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75118: ,5.0
+Sergeant Jyn Erso,"$24.99, 24.99€ | ,24.0c, 24.0c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75119: ,5.0
+K-2SO,"$24.99, 24.99€ | ,14.8c, 14.8c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75120: ,5.0
+Imperial Death Trooper,"$24.99, 24.99€ | ,23.6c, 23.6c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75121: ,5.0
+Resistance X-wing Fighter,"$9.99, 9.99€ | ,11.5c, 11.5c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",75125: ,5.0
+First Order Snowspeeder,"$9.99, 9.99€ | ,11.0c, 11.0c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75126: ,5.0
+The Ghost,"$9.99, 9.99€ | ,9.6c, 9.6c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75127: ,5.0
+TIE Advanced Prototype,"$9.99, 9.99€ | ,10.7c, 10.7c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75128: ,5.0
+Wookiee Gunship,"$9.99, 9.99€ | ,11.9c, 11.9c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75129: ,5.0
+AT-DP,"$9.99, 9.99€ | ,13.1c, 13.1c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75130: ,5.0
+Resistance Trooper Battle Pack,"$12.99, 16.99€ | ,11.6c, 15.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75131: ,5.0
+First Order Battle Pack,"$12.99, 16.99€ | ,14.8c, 19.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75132: ,5.0
+Rebel Alliance Battle Pack,"$12.99, 16.99€ | ,12.9c, 16.8c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75133: ,5.0
+Galactic Empire Battle Pack,"$12.99, 16.99€ | ,11.9c, 15.6c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75134: ,5.0
+Obi-Wan's Jedi Interceptor,"$24.99, 20.99€ | ,11.6c, 9.8c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75135: ,5.0
+Droid Escape Pod,"$24.99, 20.99€ | ,12.7c, 10.7c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75136: ,5.0
+Carbon-Freezing Chamber,"$24.99, 29.99€ | ,10.8c, 13.0c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75137: ,5.0
+Hoth Attack,"$24.99, 29.99€ | ,10.7c, 12.9c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75138: ,5.0
+Battle on Takodana,"$59.99, 59.99€ | ,14.7c, 14.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75139: ,5.0
+Resistance Troop Transporter,"$69.99, 34.99€ | ,10.8c, 5.4c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",75140: ,5.0
+Kanan's Speeder Bike,"$19.99, 29.99€ | ,8.5c, 12.8c,Box,Retail,USA: Mar 16, UK/EU: Dec 15,Normal",75141: ,5.0
+Homing Spider Droid,"$29.99, 39.99€ | ,9.7c, 12.9c,Box,Retail,USA: Mar 16, UK/EU: Jan 16,Normal",75142: ,5.0
+{?},,75143: ,5.0
+Eclipse Fighter,"$29.99, 39.99€ | ,8.3c, 11.0c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75145: ,5.0
+Star Wars Advent Calendar,"$39.99, 29.99€ | ,14.2c, 10.6c,Box,Retail,USA: Sep 16, UK/EU: Sep 16,Normal",75146: ,5.0
+StarScavenger,"$49.99, 59.99€ | ,9.0c, 10.8c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75147: ,3.0
+Encounter on Jakku,"$59.99, 69.99€ | ,11.3c, 13.2c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75148: ,3.0
+Resistance X-wing Fighter,"$79.99, 89.99€ | ,10.8c, 12.2c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75149: ,3.0
+Vader's TIE Advanced vs. A-wing Starfighter,"$89.99, 99.99€ | ,12.8c, 14.2c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75150: ,3.0
+Clone Turbo Tank,"$109.99, 119.99€ | ,12.2c, 13.3c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75151: ,3.0
+Imperial Assault Hovertank,"$29.99, 39.99€ | ,7.8c, 10.4c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75152: ,3.0
+AT-ST Walker,"$39.99, 49.99€ | ,8.9c, 11.1c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75153: ,3.0
+TIE Striker,"$69.99, 69.99€ | ,12.9c, 12.9c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75154: ,3.0
+Rebel U-wing Fighter,"$79.99, 79.99€ | ,12.1c, 12.1c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75155: ,3.0
+Krennic's Imperial Shuttle,"$89.99, 99.99€ | ,10.4c, 11.6c,Box,Retail,USA: Oct 16, UK/EU: Oct 16,Normal",75156: ,3.0
+Captain Rex's AT-TE,"$119.99, 129.99€ | ,12.3c, 13.4c,Box,Retail,USA: Jun 16, UK/EU: Jun 16,Normal",75157: ,3.0
+Rebel Combat Frigate,"$109.99, 119.99€ | ,11.8c, 12.8c,Box,Retail - limited,USA: Aug 16, UK/EU: Jul 16,Normal",75158: ,3.0
+Death Star,"$499.99, 499.99€ | ,12.4c, 12.4c,Box,LEGO exclusive,USA: Oct 16, UK/EU: Oct 16,Normal",75159: ,3.0
+Piggy Car Escape,"$12.99, 14.99€ | ,17.6c, 20.3c,Box,Retail,USA: Apr 16, UK/EU: Mar 16,Normal",75821: ,3.0
+Piggy Plane Attack,"$19.99, 24.99€ | ,11.9c, 14.9c,Box,Retail,USA: Apr 16, UK/EU: Mar 16,Normal",75822: ,3.0
+Bird Island Egg Heist,"$29.99, 39.99€ | ,10.8c, 14.4c,Box,Retail,USA: Apr 16, UK/EU: Mar 16,Normal",75823: ,3.0
+Pig City Teardown,"$39.99, 49.99€ | ,10.4c, 13.0c,Box,Retail,USA: Apr 16, UK/EU: Mar 16,Normal",75824: ,3.0
+Piggy Pirate Ship,"$59.99, 69.99€ | ,9.7c, 11.3c,Box,Retail,USA: Apr 16, UK/EU: Mar 16,Normal",75825: ,3.0
+King Pig's Castle,"$89.99, 89.99€ | ,10.5c, 10.5c,Box,Retail,USA: Apr 16, UK/EU: Mar 16,Normal",75826: ,3.0
+Firehouse Headquarters ,"$349.99, 349.99€ | ,7.6c, 7.6c,Box,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Normal",75827: ,3.0
+Ecto-1 & 2,"$59.99, 59.99€ | ,10.8c, 10.8c,Box,LEGO exclusive,USA: Jul 16, UK/EU: Jul 16,Normal",75828: ,3.0
+Chevrolet Corvette Z06,"$14.99, 14.99€ | ,8.7c, 8.7c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75870: ,3.0
+Ford Mustang GT,"$14.99, 14.99€ | ,8.1c, 8.1c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75871: ,3.0
+Audi R18 e-tron quattro,"$14.99, 14.99€ | ,9.0c, 9.0c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75872: ,3.0
+Audi R8 LMS ultra,"$14.99, 14.99€ | ,8.6c, 8.6c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75873: ,3.0
+Chevrolet Camaro Drag Race,"$29.99, 34.99€ | ,6.7c, 7.9c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75874: ,5.0
+Ford F-150 Raptor & Ford Model A Hot Rod,"$49.99, 49.99€ | ,7.5c, 7.5c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75875: ,5.0
+Porsche 919 Hybrid and 917K Pit Lane,"$69.99, 79.99€ | ,9.6c, 10.9c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",75876: ,5.0
+Clash of the Heroes,"$12.99, 14.99€ | ,14.1c, 16.3c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",76044: ,5.0
+Kryptonite Interception,"$29.99, 34.99€ | ,9.8c, 11.4c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",76045: ,5.0
+Heroes of Justice: Sky High Battle,"$59.99, 34.99€ | ,11.6c, 6.8c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",76046: ,5.0
+Black Panther Pursuit,"$29.99, 34.99€ | ,10.4c, 12.2c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76047: ,5.0
+Iron Skull Sub Attack,"$29.99, 17.49€ | ,9.0c, 5.2c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",76048: ,5.0
+Avenjet Space Mission,"$59.99, 34.99€ | ,11.5c, 6.7c,Box,Retail,USA: Jan 16, UK/EU: Jan 16,Normal",76049: ,5.0
+Crossbones' Hazard Heist,"$19.99, 17.49€ | ,11.2c, 9.8c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76050: ,5.0
+Super Hero Airport Battle,"$79.99, 79.99€ | ,9.9c, 9.9c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76051: ,5.0
+Batman Classic TV Series - Batcave,"$269.99, 249.99€ | ,10.7c, 9.9c,Box,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Normal",76052: ,5.0
+Gotham City Cycle Chase,"$19.99, 24.99€ | ,8.9c, 11.2c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76053: ,5.0
+Batman: Scarecrow Harvest of Fear,"$59.99, 69.99€ | ,10.7c, 12.4c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",76054: ,5.0
+Batman: Killer Croc Sewer Smash,"$79.99, 79.99€ | ,10.5c, 10.5c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",76055: ,5.0
+Batman: Rescue from Ra's al Ghul,"$29.99, 34.99€ | ,11.7c, 13.6c,Box,Retail - limited,USA: Jul 16, UK/EU: Jun 16,Normal",76056: ,5.0
+Spider-Man: Web Warriors Ultimate Bridge Battle,"$99.99, 99.99€ | ,9.2c, 9.2c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",76057: ,5.0
+Spider-Man: Ghost Rider Team-Up,"$19.99, 24.99€ | ,9.2c, 11.5c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",76058: ,5.0
+Spider-Man: Doc Ock's Tentacle Trap,"$39.99, 49.99€ | ,9.0c, 11.2c,Box,Retail,USA: Aug 16, UK/EU: Jun 16,Normal",76059: ,5.0
+Doctor Strange's Sanctum Sanctorum,"$29.99, 34.99€ | ,8.4c, 9.8c,Box,Retail - limited,USA: Aug 16, UK/EU: Aug 16,Normal",76060: ,5.0
+Mighty Micros: Batman vs. Catwoman,"$9.99, 6.99€ | ,12.6c, 8.8c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76061: ,5.0
+Mighty Micros: Robin vs. Bane,"$9.99, 4.99€ | ,13.0c, 6.5c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76062: ,5.0
+Mighty Micros: The Flash vs. Captain Cold,"$9.99, 9.99€ | ,11.4c, 11.4c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76063: ,5.0
+Mighty Micros: Spider-Man vs. Green Goblin,"$9.99, 4.99€ | ,11.8c, 5.9c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76064: ,5.0
+Mighty Micros: Captain America vs. Red Skull,"$9.99, 6.99€ | ,10.5c, 7.4c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76065: ,5.0
+Mighty Micros: Hulk vs. Ultron,"$9.99, 4.99€ | ,12.5c, 6.2c,Box,Retail,USA: Mar 16, UK/EU: Mar 16,Normal",76066: ,4.6
+Tanker Truck Takedown,"$29.99, 34.99€ | ,9.1c, 10.6c,Box,Retail - limited,USA: Aug 16, UK/EU: Aug 16,Normal",76067: ,4.6
+Miku The Dragon,,241601: ,4.6
+Jynx the Witch's Cat,,241602: ,4.6
+Lance,,271601: ,4.6
+Jet Horse,,271602: ,4.6
+Robin,,271603: ,4.6
+Two Globlin Spiders,,271604: ,4.6
+Lava Warrior,,271605: ,4.6
+Knight Racer,,271606: ,4.6
+Firecracker Catapult,,271607: ,4.6
+Kid Clay,,271608: ,4.6
+Bat-Gun,,271609: ,4.6
+Mighty Mech Bot,,271610: ,4.6
+Pilot Bot,,271611: ,4.6
+Pony Grooming Kit,,471602: ,4.6
+Parrot and Nest,,561601: ,4.6
+Valentine's Post Box,,561602: ,4.6
+Dog on stage,,561603: ,4.6
+Chocolate Kitchen,,561604: ,4.6
+Ice Cream Cart,,561605: ,4.6
+Rabbit and hutch,,561606: ,4.6
+Happy Beach,,561607: ,4.6
+Cake stall,,561608: ,4.6
+Olivia's Laboratory ,,561609: ,4.6
+Halloween Shop,,561610: ,4.0
+Gift wrapping table,,561611: ,4.0
+Christmas Fireplace,,561612: ,4.0
+Scorpion,,601601: ,4.0
+Ekimu Falcon,,601602: ,4.0
+Drinking Bottle—Blue,"7.99€ ,UK/EU: Feb 16,Gear",850805: ,4.0
+Drinking Bottle Pink,"7.99€ | ,UK/EU: Feb 16,Gear",850806: ,4.0
+Drinking Bottle,"7.99€ | ,UK/EU: Feb 16,Gear",850817: ,4.0
+"I Love LEGOLAND keychain, Male",,851332: ,4.0
+Wrayth,"$39.99, 2.49€ ,USA: Aug 16, UK/EU: Aug 16,Gear",851354: ,4.0
+NEXO KNIGHTS Macy's Mace,"$12.99, 4.99€ | ,USA: Mar 16, UK/EU: Mar 16,Gear",853503: ,4.0
+NEXO KNIGHTS Clay's Sword,"$12.99, 4.99€ ,USA: Mar 16, UK/EU: Mar 16,Gear",853504: ,4.0
+NK Sword Standard,"$9.99, 7.99€ ,LEGO exclusive,USA: Jan 16, UK/EU: Feb 16,Gear",853505: ,4.0
+NK Shield Standard,"$12.99, 9.99€ ,LEGO exclusive,USA: Jan 16, UK/EU: Feb 16,Gear",853506: ,4.0
+Knight's Power Up Shield,"14.99€ | ,UK/EU: May 16,Gear",853507: ,4.0
+Monster's Shield,"14.99€ | ,UK/EU: May 16,Gear",853508: ,4.0
+NEXO KNIGHTS Knight s Dress Up,"$19.99 | ,USA: Apr 16,Gear",853510: ,4.0
+FK Role Play Dress up Bad guy,"$19.99 ,USA: Apr 16,Gear",853511: ,4.0
+Knights Army-Building Set,"35,$14.99, 12.99€ | ,42.8c, 37.1c,Blister pack,LEGO exclusive,USA: May 16, UK/EU: May 16,Extended",853515: ,4.0
+Monsters Army-Building Set,"30,$14.99, 12.99€ ,50.0c, 43.3c,Blister pack,LEGO exclusive,USA: May 16, UK/EU: May 16,Extended",853516: ,4.0
+NK Drinking Bottle,"$9.99, 7.99€ | ,USA: Aug 17, UK/EU: Mar 16,Gear",853517: ,4.0
+NK Tumbler,"$7.99, 7.99€ ,USA: Mar 16, UK/EU: Mar 16,Gear",853518: ,4.0
+NK Playmat,"$14.99, 6.49€ ,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853519: ,4.0
+Aaron Key Chain,"$4.99, 4.99€ ,Tag,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853520: ,4.0
+Clay Key Chain,"$4.99, 4.99€ ,Tag,LEGOLAND exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853521: ,4.0
+Macy Key Chain,"$4.99, 2.49€ ,Tag,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853522: ,3.0
+Lance Key Chain,"$4.99, 4.99€ ,Tag,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853524: ,3.0
+Keychain NK Jestro,"$4.99, 2.49€ ,USA: Mar 16, UK/EU: Mar 16,Gear",853525: ,3.0
+NEXO KNIGHTS Monsters Sketch Book,"$14.99, 6.49€ ,USA: Mar 16, UK/EU: Mar 16,Gear",853528: ,3.0
+NINJAGO Customizable Sword,"$19.99, 17.99€ | ,USA: Mar 16, UK/EU: Jul 16,Gear",853529: ,3.0
+NINJAGO Skybound Shield,"$14.99, 12.99€ | ,USA: Mar 16, UK/EU: Apr 16,Gear",853530: ,3.0
+NINJAGO Armor,"$19.99 | ,USA: Mar 16,Gear",853532: ,3.0
+NINJAGO Bandana,"$7.99, 6.99€ | ,USA: Mar 16, UK/EU: Mar 16,Gear",853533: ,3.0
+Skybound Jay Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853534: ,3.0
+Skybound Cole Key Chain,"$4.99, 4.99€ ,USA: Jun 16, UK/EU: Jun 16,Gear",853538: ,3.0
+Ninjago Party Set,"$7.99, 6.99€ ,Blister pack,LEGO exclusive,USA: Jan 16, UK/EU: Feb 16,Gear",853543: ,3.0
+NINJAGO Accessory Set,"36,$14.99, 12.99€ | ,41.6c, 36.1c,Blister pack,LEGO exclusive,USA: Jun 16, UK/EU: Jun 16,Extended",853544: ,3.0
+Emma Key Chain,"$4.99, 2.49€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853547: ,3.0
+Andrea Key Chain,"$4.99, 2.49€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853548: ,3.0
+Mia Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853549: ,3.0
+Stephanie Key Chain,"$1.24, 2.49€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853550: ,3.0
+Olivia Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853551: ,3.0
+ Friends Hand Foot Fun,"$24.99 ,USA: Mar 16,Gear",853552: ,3.0
+Campsite Scrapbook,"$14.99, 6.49€ ,USA: Jan 16, UK/EU: Jan 16,Gear",853555: ,3.0
+Friends Mini-Doll Campsite Set,"35,$14.99, 12.99€ | ,42.8c, 37.1c,Blister pack,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Extended",853556: ,3.0
+Emily Jones Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853559: ,3.0
+Elves Azari the Fire Elf Key Chain,"$4.99, 4.99€ | ,Tag,LEGOLAND exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853560: ,3.0
+Elves Aira the Wind Elf Key Chain,"$5.99, 4.99€ | ,Tag,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853561: ,3.0
+Elves Naida the Water Elf Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Mar 16, UK/EU: Mar 16,Gear",853562: ,3.0
+Elves Fledge the Baby Dragon Bag Charm,"$4.99, 4.99€ | ,USA: Mar 16, UK/EU: Mar 16,Gear",853563: ,3.0
+Elves Me and My Dragon Display,"$14.99, 12.99€ ,USA: Mar 16, UK/EU: Mar 16,Gear",853564: ,4.0
+Elves Emily Jones' Diary Sketch Book,"$14.99, 6.49€ ,USA: Apr 16, UK/EU: Apr 16,Gear",853565: ,4.0
+Prison Guard Key Chain,"$4.99, 2.49€ ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853568: ,4.0
+Notebook with Studs,"$12.99, 9.99€ | ,USA: Mar 16, UK/EU: Mar 16,Gear",853569: ,4.0
+Police Accessory Set,"26,$14.99, 12.99€ | ,57.7c, 50.0c,Blister pack,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Extended",853570: ,4.0
+Hot Dog Guy Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853571: ,4.0
+Bumble Bee Key Chain,"$4.99, 4.99€ | ,Tag,LEGO exclusive,USA: Jan 16, UK/EU: Jan 16,Gear",853572: ,4.0
+Yellow Car Bag Charm,"$4.99, 4.99€ | ,USA: Mar 16, UK/EU: Mar 16,Gear",853573: ,4.0
+Christmas Ornament Reindeer,"21,$7.99, 7.99€ | ,38.0c, 38.0c,USA: Sep 16, UK/EU: Oct 16,Extended",853574: ,4.0
+Minifigure Cake Mold,"$12.99, 14.99€ | ,LEGO exclusive,USA: Jun 16, UK/EU: Jun 16,Gear",853575: ,4.0
+Key Rack,"$16.99, 14.99€ | ,Box,LEGO exclusive,USA: Jun 16, UK/EU: Jun 16,Gear",853580: ,4.0
+Superman Key Chain ,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853590: ,4.0
+Batman Key Chain,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853591: ,4.0
+Black Widow Key Chain,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853592: ,4.0
+Captain America Key Chain,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853593: ,4.0
+New York Minifigure Magnet,,853599: ,4.0
+Statue of Liberty Magnet,,853600: ,4.0
+New York Key Chain,,853601: ,4.0
+Finn Key Chain,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853602: ,4.0
+Rey Key Chain,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853603: ,4.0
+BB 8 Key Chain,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853604: ,4.0
+Poe Dameron Key Chain ,"$4.99, 4.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",853605: ,4.0
+Skin Pack,"25,$14.99, 12.99€ | ,60.0c, 52.0c,Blister pack,LEGO exclusive,USA: Sep 16, UK/EU: Sep 16,Extended",853609: ,4.0
+Skin Pack,"28,$14.99, 12.99€ | ,53.5c, 46.4c,Blister pack,LEGO exclusive,USA: Sep 16, UK/EU: Sep 16,Extended",853610: ,4.0
+Marvel Super Heroes Minifigure Display Frame,"$16.99, 14.99€ | ,Box,LEGO exclusive,USA: Jun 16, UK/EU: Jun 16,Gear",853611: ,4.0
+Kai,,891609: ,4.0
+Clouse,,891610: ,4.0
+Cole,,891611: ,4.0
+Sqiffy,,891612: ,4.0
+Kai's Dragon,,891613: ,4.0
+Cyren,,891614: ,4.0
+Jay,,891615: ,4.0
+Bucko ,,891616: ,4.0
+Titanium Zane,,891617: ,4.0
+Ronin,,891618: ,4.0
+Pirate's Fighter,,891619: ,4.0
+Nya,,891620: ,4.0
+Millennium Falcon,,911607: ,4.0
+Landspeeder,,911608: ,4.0
+Naboo Starfighter,,911609: ,4.0
+Probe Droid,,911610: ,4.0
+AAT,,911611: ,4.0
+Acklay,,911612: ,4.0
+TIE Bomber,,911613: ,4.0
+Yoda's Hut,,911614: ,4.0
+AT-AT,,911615: ,4.0
+MTT,,911616: ,4.0
+Palpatine's Shuttle,,911617: ,4.0
+Mini Milo,,2000447: ,4.0
+Max and Mia,,2000448: ,4.0
+The Panama Canal,"$249.99 ,21.1c,Box,Promotional,Normal",2000451: ,3.0
+WeDo Replacement Pack 2,,2000711: ,3.0
+WeDo 2.0 Replacement Pack,,2000715: ,3.0
+FIRST LEGO League (FLL) Replacement Pack 2016 - Animal Allies,,2000716: ,3.0
+Education EV3 Design Engineering Projects,,2005544: ,3.0
+WeDo 2.0 Curriculum Pack,,2045300: ,3.0
+Elephant,,3850007: ,3.0
+Jet,,3850008: ,3.0
+Aircraft,,3850009: ,3.0
+Butterfly,,3850010: ,3.0
+Statue of Liberty,,3850011: ,3.0
+Truck,,3850012: ,3.0
+Turtle,,3850013: ,3.0
+Snowplough,,3850014: ,3.0
+Penguin,,3850015: ,3.0
+LEGO Truck Show,,4000022: ,3.0
+Jiaxing Factory 2016,,4000023: ,3.0
+50 Years on Track,,4002016: ,3.0
+Silver Centurion,,5002946: ,3.0
+4 stud Pink Storage Brick,"19.99€ | ,UK/EU: Apr 16,Gear",5004277: ,3.0
+Nexo Knights Intro Pack,,5004388: ,3.0
+Battle Station,,5004389: ,3.0
+King's Guard,,5004390: ,3.0
+Sky Pirates Battle,,5004391: ,3.0
+Cole,,5004393: ,3.0
+Jewelry and Sticker Pack,,5004395: ,4.5
+Friends Playmat,,5004398: ,4.5
+Wildlife Puzzle,,5004401: ,4.5
+Playmat,,5004403: ,4.5
+Police Chase,,5004404: ,4.5
+First Order General,,5004406: ,4.5
+Rebel A-wing Pilot,"5,0.01€ ,0.2c,Polybag,Promotional,Extended",5004408: ,4.5
+Accessory pack,,5004409: ,4.5
+Classic Knights Minifigure,,5004419: ,4.5
+Toy Soldier,,5004420: ,4.5
+Musicians minifigure collection,,5004421: ,4.5
+Warriors minifigure collection,,5004422: ,4.5
+Iconic Easter Minifigure,,5004468: ,4.5
+Wonder Woman Minifigure Alarm Clock,"29.99€ | ,UK/EU: Mar 16,Gear",5004538: ,4.5
+Athletes minifigure collection,,5004573: ,4.5
+Cops and Robbers minifigure collection,,5004574: ,4.5
+Lucy Wyldstyle Minifigure Link Watch,"$24.99 ,Box,LEGO exclusive,USA: Jan 16,Gear",5004612: ,4.5
+NINJAGO Shadow of Ronin ,"$29.99 ,USA: Aug 16,Gear",5004720: ,4.5
+NINJAGO Shadow of Ronin,"$29.99 ,USA: Aug 16,Gear",5004721: ,4.5
+The Joker Key Light,"9.09€ ,UK/EU: Mar 16,Gear",5004797: ,4.5
+WeDo 2.0 ReadyGo Classroom Packs,,5004833: ,4.5
+WeDo 2.0 YouCreate Classroom Packs,,5004837: ,4.5
+ WeDo 2.0 Add-On Power Pack,,5004838: ,4.5
+Anakin Skywalker Minifigure Watch,"17.49€ ,UK/EU: Jan 16,Gear",5005011: ,4.5
+Classic Minifigure Link Watch,"17.49€ ,UK/EU: Jan 16,Gear",5005015: ,4.5
+Yoda Minifigure Watch,"29.99€ | ,UK/EU: Jan 16,Gear",5005017: ,3.0
+Luke Skywalker Watch,"17.49€ ,UK/EU: Jan 16,Gear",5005018: ,3.0
+4 stud Black Storage Brick,"19.99€ | ,UK/EU: Apr 16,Gear",5005020: ,3.0
+8 stud Bright Purple Storage Brick,"34.99€ | ,UK/EU: Apr 16,Gear",5005027: ,3.0
+8 stud Black Storage Brick,"34.99€ | ,UK/EU: Apr 16,Gear",5005031: ,3.0
+Darth Vader Watch,"17.49€ ,UK/EU: Apr 16,Gear",5005032: ,3.0
+Superman Minifigure Link Watch,"12.49€ ,UK/EU: Apr 16,Gear",5005041: ,3.0
+NINJAGO Luggage Tag,"4.99€ | ,UK/EU: May 16,Gear",5005042: ,3.0
+City Luggage Tag,"4.99€ ,UK/EU: May 16,Gear",5005043: ,3.0
+Friends of Heartlake City Girlz 4 Life,"$19.99 ,USA: Feb 16,Gear",5005051: ,3.0
+Marvel Avengers XBOX 360 Video Game,"$39.99 ,USA: Feb 16,Gear",5005057: ,3.0
+Marvel Avengers Wii U Video Game,"$39.99 ,USA: Feb 16,Gear",5005058: ,3.0
+Marvel Avengers PS3 Video Game,"$39.99 ,USA: Feb 16,Gear",5005059: ,3.0
+Marvel Avengers Nintendo 3DS Video Game,"$19.99 ,USA: Feb 16,Gear",5005060: ,3.0
+Stormtrooper Kid's Watch,"12.49€ ,Box,LEGO exclusive,UK/EU: Mar 16,Gear",5005098: ,3.0
+Batman Buildable Watch,"12.49€ ,UK/EU: Apr 16,Gear",5005099: ,3.0
+Stephanie Watch with Mini-Doll,"24.99€ | ,Box,LEGOLAND exclusive,UK/EU: Mar 16,Gear",5005100: ,3.0
+LEGO Buildable Ruler,"$15.99, 16.49€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",5005107: ,3.0
+LEGO Erasers (Blue Yellow),"$5.99, 7.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",5005108: ,3.0
+LEGO 3 Pack Gel Pen Set,"13.49€ | ,UK/EU: Jun 16,Gear",5005109: ,3.0
+LEGO Brick Pencil Case (Red),"$9.99, 12.49€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",5005110: ,3.0
+LEGO 9 Pack Graphite Pencils,"10.99€ | ,UK/EU: Jun 16,Gear",5005111: ,3.0
+LEGO Pencil Sharpeners,"$5.99, 7.99€ | ,USA: Jun 16, UK/EU: Jun 16,Gear",5005112: ,3.0
+Aaron Minifigure Alarm Clock,"$29.99 | ,USA: May 16,Gear",5005113: ,3.0
+Clay Minifigure Alarm Clock,"$29.99 ,USA: Jun 16,Gear",5005115: ,3.0
+Jay Minifigure Alarm Clock,"$29.99 | ,USA: May 16,Gear",5005117: ,3.0
+Lloyd Minifigure Alarm Clock,"$29.99 ,USA: May 16,Gear",5005118: ,3.0
+Kai Minifigure Alarm Clock,"$29.99 | ,USA: Jun 16,Gear",5005121: ,3.0
+Star Wars Episode VII poster ,,5005134: ,3.0
+The Force Awakens PS 4 Video Game – Deluxe Edition,"$69.99 ,USA: Jul 16,Gear",5005136: ,3.0
+The Force Awakens Xbox 360 Video Game,"$49.99 ,USA: Jul 16,Gear",5005137: ,3.0
+The Force Awakens Xbox One Video Game – Deluxe Edition,"$69.99 ,USA: Jul 16,Gear",5005138: ,3.0
+The Force Awakens PS 4 Video Game,"$69.99 ,USA: Jul 16,Gear",5005139: ,3.0
+The Force Awakens Xbox One Video Game,"$59.99 ,USA: Jul 16,Gear",5005140: ,3.0
+The Force Awakens Wii U Video Game,"$49.99 ,USA: Jul 16,Gear",5005141: ,3.0
+Journal with White Band,"$19.99 | ,USA: Jun 16,Gear",5005144: ,3.0
+Stationery Organizer,"$39.99 | ,USA: Jun 16,Gear",5005145: ,3.0
+9 Pack Gel Pen Set,"$24.99 | ,USA: Jun 16,Gear",5005146: ,3.0
+9 Pack Marker Set,"$19.99 | ,USA: Jun 16,Gear",5005147: ,3.0
+9 Pack Colored Pencil with Toppers Pack,"$12.99 | ,USA: Jun 16,Gear",5005148: ,3.0
+Gingerbread Man,"3,4.99€ | ,166.3c,Box,LEGO exclusive,UK/EU: Oct 18,Extended",5005156: ,3.0
+Stationery Kit,"$155.91 ,USA: Jul 16,Gear",5005160: ,3.0
+Nexo Knights Season 1 DVD,"$18.99 ,USA: Sep 16,Gear",5005182: ,3.0
+LEGO Mixels - Series 7 - Display Box,,6139025: ,3.0
+LEGO Mixels - Series 8 - Display Box,,6139030: ,3.0
+Escape the Space Slug,,6176782: ,3.0
+LEGO Star Wars: Droid Tales,"$19.99 ,Other,Retail,Gear",,3.0
+"Bordeaux, France, Exclusive Minifigure Pack",,,3.0
+Justice League: Cosmic Clash DVD/Blu-Ray,,,3.0
+Justice League: Gotham City Breakout DVD/Blu-ray,,,3.0
+Lou Seal Buildable Figure,,,4.0
+LEGO DC Super Heroes: Character Encyclopedia ,,,4.0
+LEGO Nexo Knights: The Book of Knights,,,4.0
+LEGO Ninjago Character Encyclopedia: Updated and Expanded,,,4.0
+LEGO Star Wars: Build Your Own Adventure,,,4.0
+LEGO City: Build Your Own Adventure,,,4.0
+The Complete LEGO Minifigure Catalogue,,,4.0
+Brick History: Amazing Historical Scenes to Build from LEGO,,,4.0
+"Building with Virtual LEGO: Getting Started with LEGO Digital Designer, LDraw, and Mecabricks",,,4.0
+Brick History: A Brick History of the World in LEGO (US Edition),,,4.0
+Brick Animals: 40 Clever & Creative Ideas to Make from LEGO (US Edition),,,4.0
+Brick Cars: 40 Clever & Creative Ideas to Make from LEGO (US Edition),,,4.0
+The Ultimate Guide to Collectible Minifigures,,,4.0
+LEGO Star Wars: Chronicles of the Force,,,4.0
+365 Things to Do with LEGO Bricks,,,4.0
+The 2015 LEGO Minifigure Catalog: 1st Edition,,,4.0
+The Star Wars LEGO Minifigure Catalog: 5th Edition,,,4.0
+The 2014 LEGO Minifigure Catalog: 2nd Edition,,,4.0
+The Middle Earth LEGO Minifigure Catalog,,,4.0
+Tiny LEGO Wonders: Build 42 Impressive Miniscale Models,,,4.0
+The LEGO Animation Book: Make Your Own LEGO Movies!,,,4.0
+The Unofficial LEGO Technic Builder's Guide: 2nd Edition,,,4.0
+The LEGO Christmas Ornaments Book: 15 Designs to Spread Holiday Cheer,,,4.0
+Geeky LEGO Crafts: 21 Fun and Quirky Projects,,,4.0
+Awesome LEGO Creations with Bricks You Already Have,,,4.0
+Birds from Bricks: Designs That Make LEGO Take Flight,,,4.5
+Brick by Brick: Space,,,4.5
+The Greatest LEGO Builds of All Time,,,4.5
+Build It! Volume 1,,,4.5
+Build It! Volume 2,,,4.5
+Build It! Volume 3,,,4.5
+Build It! World Landmarks,,,4.5
+LEGO Trains - concepts and techniques for realistic models,,,4.5
+LEGO Tips for Kids: LEGO Space,,,4.5
+Lester,,,4.5
+LEGO Mixels - Series 9 - Display Box,,,4.5
+Batgirl,,,4.5
+Paris Forum Des Halles Exclusive Minifigure Pack,,,4.5
+Boston Red Sox baseball player ,,,4.5
+San Francisco Exclusive Minifigure Pack,,,4.5
+Steve Rogers Captain America,,,4.5
+Atom,,,4.5
+Stockholm minifigure collection,,,4.5
+LEGO Star Wars: The Freemaker Adventures - Complete Season One (DVD/Blu-ray),,,4.5
+Captain America Mosaic,,,4.5
+Cogsworth,,,4.5
+Millennium Falcon,,,4.5
+Frankenstein's Monster,,,4.5
+Lumiere,,,4.5
+Nexo Knights Shield Dock ,,,4.5
+Winner's Podium,,,

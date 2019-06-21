@@ -1,0 +1,428 @@
+name,price,set_ID,rating
+Stack-n-Learn Gift Item,,1166: ,3.7
+Clikits Bracelet,,1385: ,3.7
+Tahnok Va,,1431: ,3.7
+Nuhvok Va,,1432: ,3.7
+Gahlok Va,,1433: ,3.7
+Lehvak Va,,1434: ,3.7
+Fikou,,1441: ,3.7
+Luke Skywalker pen,,1729: ,3.7
+Paploo pen,,1730: ,3.7
+Storm Trooper pen,,1731: ,3.7
+Obi-Wan Kenobi pen,,1732: ,3.7
+Tusken Raider pen,,1733: ,3.7
+Yoda pen,,1734: ,3.7
+Little Fish,,3223: ,3.7
+Bob's Busy Day,"$5.00 ,55.6c,Normal",3284: ,3.7
+Wendy in the Office,"$5.00 ,55.6c,Normal",3285: ,3.7
+Spud and Bird,"$5.00 ,55.6c,Normal",3286: ,3.7
+Takutanuva,,3287: ,3.7
+Johnny Thunder,,3380: ,3.7
+Sam Sinister,,3381: ,3.7
+China Girl,,3382: ,3.7
+Chef,,3383: ,3.7
+Construction Worker,,3384: ,3.7
+Train Conductor,,3385: ,3.7
+Pepper,,3386: ,3.7
+Brickster,,3387: ,3.0
+Beach Dude,,3388: ,3.0
+Skater Boy,,3389: ,3.0
+Street Basket,,3390: ,3.0
+Dash the Diver,,3391: ,3.0
+Championship Challenge II (Bayern Munich FC Edition),,3420: ,3.0
+Shoot 'n' Save (Bayern Munich FC Edition),,3422: ,3.0
+NBA Slam Dunk,"$8.00 ,15.1c,Box,Retail,Normal",3427: ,3.0
+One vs One Action,"$10.00 ,25.6c,Box,Retail,Normal",3428: ,3.0
+Ultimate Defense,"$15.00 ,18.3c,Box,Retail,Normal",3429: ,3.0
+Spin & Shoot,,3430: ,3.0
+Street Ball 2 vs 2,"$20.00 ,10.8c,Box,Retail,Normal",3431: ,3.0
+NBA Challenge,"$50.00 ,11.1c,Box,Retail,Normal",3432: ,3.0
+The Ultimate NBA Arena,"$80.00 ,16.3c,Box,Retail,Normal",3433: ,3.0
+NBA Jam Session Co-Pack,"$20.00 ,28.6c,Box,Retail,Normal",3440: ,3.0
+Kobe Bryant,,3500: ,3.0
+Funny Crocodile,"$10.00 ,62.5c,Normal",3511: ,3.0
+Funny Giraffe,"$10.00 ,47.6c,Normal",3512: ,3.0
+Funny Lion,"$10.00 ,43.5c,Normal",3513: ,3.0
+Rhino and Lion,"$15.00 ,50.0c,Normal",3514: ,3.0
+African Adventures,"$20.00 ,38.5c,Normal",3515: ,3.0
+Blue Deer,"$3.50 ,35.0c,Normal",3517: ,3.0
+Yellow Duck,"$3.50 ,31.8c,Normal",3518: ,3.0
+Green Parrot,"$3.50 ,35.0c,Normal",3519: ,3.0
+Pau Gasol,,3529: ,3.0
+Tony Parker,,3530: ,2.7
+Skateboard Street Park,"$10.00 ,14.5c,Box,Retail,Normal",3535: ,2.7
+Snowboard Big Air Comp,"$15.00 ,18.3c,Box,Retail,Normal",3536: ,2.7
+Skateboard Vert Park Challenge,"$20.00 ,22.7c,Box,Retail,Normal",3537: ,2.7
+Snowboard Boarder Cross Race,"$30.00 ,15.4c,Box,Retail,Normal",3538: ,2.7
+Puck Passer,"$8.00 ,18.2c,Box,Retail,Normal",3540: ,2.7
+Slap Shot,"$8.00 ,17.8c,Box,Retail,Normal",3541: ,2.7
+Flip Shot,"$8.00 ,17.4c,Box,Retail,Normal",3542: ,2.7
+Slammer Goalie,"$8.00 ,17.8c,Box,Retail,Normal",3543: ,2.7
+Game Set,"$15.00 ,9.7c,Box,Retail,Normal",3544: ,2.7
+Puck Feeder,,3545: ,2.7
+Slam Dunk Trainer,"$4.00 ,21.1c,Box,Retail,Normal",3548: ,2.7
+Practice Shooting,"$4.00 ,23.5c,Box,Retail,Normal",3549: ,2.7
+Jump and Shoot,"$4.00 ,23.5c,Box,Retail,Normal",3550: ,2.7
+Blue Player and Goal,"$4.00 ,12.1c,Box,Retail,Normal",3557: ,2.7
+Red Player and Goal,"$4.00 ,12.1c,Box,Retail,Normal",3558: ,2.7
+Red and Blue Player,"$4.00 ,10.0c,Box,Retail,Normal",3559: ,2.7
+NBA Collectors # 1,"12,$8.00 ,66.7c,Box,Retail,Normal",3560: ,2.7
+NBA Collectors # 2,"12,$8.00 ,66.7c,Box,Retail,Normal",3561: ,2.7
+NBA Collectors # 3,"$8.00 ,61.5c,Box,Retail,Normal",3562: ,2.7
+NBA Collectors # 4,"12,$8.00 ,66.7c,Box,Retail,Normal",3563: ,2.7
+NBA Collectors # 5,"12,$8.00 ,66.7c,Box,Retail,Normal",3564: ,2.7
+NBA Collectors # 6,"12,$8.00 ,66.7c,Box,Retail,Normal",3565: ,2.7
+NBA Collectors # 7,"12,$8.00 ,66.7c,Box,Retail,Normal",3566: ,2.7
+NBA Collectors # 8,"12,$8.00 ,66.7c,Box,Retail,Normal",3567: ,2.7
+Rapid Return,"$8.00 ,17.0c,Box,Retail,Normal",3584: ,4.0
+Snowboard Super Pipe,"$50.00 ,22.0c,Box,Retail,Normal",3585: ,4.0
+Stunt Plane,"$6.00 ,66.7c,Normal",3586: ,4.0
+Mini Dozer,"$10.00 ,66.7c,Normal",3587: ,4.0
+Heavy Truck,"$15.00 ,83.3c,Normal",3588: ,4.0
+Chopper,"$20.00 ,90.9c,Normal",3589: ,4.0
+Drill,"$20.00 ,83.3c,Normal",3590: ,4.0
+Fire Action,,3655: ,4.0
+Police Action,"$40.00 ,125.0c,Normal",3656: ,4.0
+Fire Fighters,"$40.00 ,114.3c,Normal",3657: ,4.0
+Tow-Me Truck,"5,$7.00 ,140.0c,Normal",3696: ,4.0
+Fearless Fire Fighter,"5,$7.00 ,140.0c,Normal",3697: ,4.0
+Friendly Police Car,"4,$7.00 ,175.0c,Normal",3698: ,4.0
+Happy Constructor,"9,$10.00 ,111.1c,Collection",3699: ,4.0
+Emergency Vehicles Set,,3700: ,4.0
+Create and Imagine,,4013: ,4.0
+Creator Exclusive,,4014: ,4.0
+Fun and Adventure,"$4.00 ,7.3c,Box,Retail,Normal",4023: ,4.0
+Advent Calendar,"$15.00 ,4.4c,Box,Retail - limited,Normal",4024: ,4.0
+Create Your Dreams,"$3.50 ,3.5c,Canister,Retail,Normal",4026: ,4.0
+Build and Imagine,"$3.50 ,3.5c,Canister,Retail,Normal",4027: ,4.0
+World of Bricks,"$10.00 ,2.0c,Bucket,Retail,Normal",4028: ,4.0
+Build with Bricks Bucket,"$10.00 ,2.0c,Bucket,Retail,Normal",4029: ,4.0
+Holiday Jet (LEGO Air Version),,4032: ,4.0
+Holiday Jet (SAS Version),,4032: ,4.0
+Holiday Jet (EL AL Version),,4032: ,5.0
+Holiday Jet (Iberia Version),,4032: ,5.0
+Holiday Jet (JAL Version),,4032: ,5.0
+Holiday Jet (Lauda Air Version),,4032: ,5.0
+Holiday Jet (ANA Version),,4032: ,5.0
+Holiday Jet (SWISS Version),,4032: ,5.0
+Holiday Jet (Snowflake Version),,4032: ,5.0
+Holiday Jet (Austrian Air Version),,4032: ,5.0
+Holiday Jet (KLM Version),,4032: ,5.0
+Holiday Jet (Malaysian Air Version),,4032: ,5.0
+Holiday Jet (Aeroflot Version),,4032: ,5.0
+Fun Flyer,,4038: ,5.0
+LEGO EXPLORE Exclusive,,4039: ,5.0
+Ultimate Wheels,"$30.00 ,5.8c,Box,Retail,Collection",4047: ,5.0
+Mechs,"$30.00 ,5.4c,Box,Retail,Collection",4048: ,5.0
+Motion Madness,"$15.00 ,6.1c,Box,Retail,Normal",4090: ,5.0
+Wild Wind-Up,"$25.00 ,7.8c,Box,Retail,Normal",4093: ,5.0
+Motor Movers,"$40.00 ,15.7c,Box,Retail,Normal",4094: ,5.0
+Record and Play,"$50.00 ,14.5c,Box,Retail,Normal",4095: ,5.0
+Micro Wheels,"$10.00 ,4.7c,Box,Retail,Normal",4096: ,5.0
+Mini Robots,"$10.00 ,4.4c,Box,Retail,Normal",4097: ,5.0
+High Flyers,"$10.00 ,5.1c,Box,Retail,Normal",4098: ,5.0
+Robobots,"$20.00 ,6.2c,Box,Retail,Normal",4099: ,5.0
+Maximum Wheels,"$20.00 ,6.7c,Box,Retail,Normal",4100: ,5.0
+Wild Collection,"$30.00 ,6.1c,Box,Retail,Normal",4101: ,5.0
+Large Tub,,4278: ,3.5
+Creator Strata Red,,4279: ,3.5
+Green LEGO Car,,4300: ,3.5
+Blue LEGO Car,,4301: ,3.5
+Build With Bricks,"$20.00 ,2.8c,Tub,Retail - limited,Normal",4400: ,3.5
+Little Creations,"$7.00 ,6.4c,Box,Retail,Normal",4401: ,3.5
+Sea Riders,"$40.00 ,7.3c,Box,Retail,Normal",4402: ,3.5
+Air Blazers,"$50.00 ,7.1c,Box,Retail,Normal",4403: ,3.5
+Land Busters,"$60.00 ,7.8c,Box,Retail,Normal",4404: ,3.5
+Large Creator Tub,,4405: ,3.5
+Jabba's Message,"$7.00 ,15.2c,Box,Retail,Normal",4475: ,3.5
+Jabba's Prize,"$7.00 ,17.5c,Box,Retail,Normal",4476: ,3.5
+T-16 Skyhopper ,"$15.00 ,15.3c,Box,Retail,Normal",4477: ,3.5
+Geonosian Fighter,"$20.00 ,11.8c,Box,Retail,Normal",4478: ,3.5
+TIE Bomber,"$30.00 ,13.0c,Box,Retail,Normal",4479: ,3.5
+Jabba's Palace,"$30.00 ,13.0c,Box,Retail,Normal",4480: ,3.5
+Hailfire Droid,"$50.00 ,7.3c,Box,Retail,Normal",4481: ,3.5
+AT-TE,"$70.00 ,10.6c,Box,Retail,Normal",4482: ,3.5
+AT-AT,"$100.00 ,9.4c,Box,Retail,Normal",4483: ,3.5
+X-Wing Fighter & TIE Advanced,"$4.00 ,5.3c,Blister pack,Retail,Normal",4484: ,3.5
+Sebulba's Podracer & Anakin's Podracer,"$4.00 ,5.6c,Blister pack,Retail,Normal",4485: ,3.5
+AT-ST & Snowspeeder,"$4.00 ,5.3c,Blister pack,Retail,Normal",4486: ,3.5
+Jedi Starfighter & Slave I,"$4.00 ,7.5c,Blister pack,Retail,Normal",4487: ,3.5
+Millennium Falcon,"$7.00 ,8.0c,Blister pack,Retail,Normal",4488: ,3.5
+AT-AT,"$7.00 ,7.1c,Blister pack,Retail,Normal",4489: ,3.5
+Republic Gunship,"$7.00 ,6.9c,Blister pack,Retail,Normal",4490: ,4.4
+MTT,"$7.00 ,7.1c,Blister pack,Retail,Normal",4491: ,4.4
+High Speed Train,"$90.00 ,26.8c,Box,Retail,Normal",4511: ,4.4
+Cargo Train,"$140.00 ,25.5c,Box,Retail,Normal",4512: ,4.4
+Grand Central Station,"$50.00 ,14.5c,Box,Retail,Normal",4513: ,4.4
+Cargo Crane,"$20.00 ,11.3c,Box,Retail,Normal",4514: ,4.4
+Police Motorcycle,"$3.00 ,27.3c,Normal",4651: ,4.4
+Tow Truck,"$10.00 ,40.0c,Normal",4652: ,4.4
+Dump Truck,"$10.00 ,37.0c,Normal",4653: ,4.4
+Tanker Truck,"$15.00 ,35.7c,Normal",4654: ,4.4
+Quick Fix Station,"$25.00 ,25.8c,Normal",4655: ,4.4
+Fire Squad HQ,"$40.00 ,28.8c,Normal",4657: ,4.4
+Quality Quidditch Supplies,"$10.00 ,8.3c,Box,Retail,Normal",4719: ,4.4
+Knockturn Alley,"$20.00 ,9.6c,Box,Retail,Normal",4720: ,4.4
+Spider-Man's first chase,"$20.00 ,10.5c,Box,Retail,Normal",4850: ,4.4
+Spider-Man and Green Goblin - The Origins,"$30.00 ,13.8c,Box,Retail,Normal",4851: ,4.4
+Spider-Man vs. Green Goblin -- The final showdown,"$50.00 ,13.9c,Box,Retail,Normal",4852: ,4.4
+Soccer,,5012: ,4.4
+Basketball,,5013: ,4.4
+Hockey,,5014: ,4.4
+Skater,,5015: ,4.4
+Basketball,,5016: ,4.4
+Hockey Headshox,,5017: ,4.4
+Snowboard,,5018: ,4.4
+Explore Half Strata Box,,5211: ,4.4
+Explore Strata,,5212: ,4.0
+Big Bricks Box,,5213: ,4.0
+Yellow Tub,"$20.00 ,20.0c,Normal",5230: ,4.0
+Chicken,"$2.00 ,33.3c,Polybag,Unknown,Normal",5437: ,4.0
+Smiling Rattle,,5441: ,4.0
+Curly Hanging Rattle,,5443: ,4.0
+Roll 'n' Tip,,5446: ,4.0
+Stack 'n' Learn Sorter,"13,$7.00 ,53.8c,Normal",5449: ,4.0
+Discovery Bird,,5450: ,4.0
+Musical Sea Mobile,,5451: ,4.0
+Rolling Duck,,5494: ,4.0
+Paprika and the Mischievous Monkey,"$9.00 ,17.6c,Normal",5856: ,4.0
+Safran's Amazing Bazaar,"$20.00 ,21.5c,Normal",5857: ,4.0
+The Golden Palace,"$55.00 ,31.8c,Normal",5858: ,4.0
+Little Garden Fairy,"$9.00 ,17.6c,Normal",5859: ,4.0
+Fairy Island,"$28.00 ,27.7c,Normal",5861: ,4.0
+Flower Fairy Party,"$48.00 ,29.8c,Normal",5862: ,4.0
+Golden Land,,5872: ,4.0
+Bellville Fairy Land,,5873: ,4.0
+Squad Car,"$4.00 ,7.7c,Box,Retail,Normal",7030: ,4.0
+Helicopter,"$10.00 ,11.4c,Box,Retail,Normal",7031: ,4.0
+Police 4WD and Undercover Van,"$15.00 ,9.7c,Box,Retail,Normal",7032: ,4.0
+Armoured Car Action,"$20.00 ,11.0c,Box,Retail,Normal",7033: ,4.0
+Surveillance Truck,"$30.00 ,11.5c,Box,Retail,Normal",7034: ,4.0
+Police HQ,"$50.00 ,11.8c,Box,Retail,Normal",7035: ,4.0
+Inflight Sales,"$10.00 ,7.8c,Box,Promotional (Airline),Normal",7212: ,4.1
+Robots,,7221: ,4.1
+Flyers,,7222: ,4.1
+Wheelers,,7223: ,4.1
+Christmas,,7224: ,4.1
+Secret of the Tomb,"$4.00 ,9.5c,Box,Retail,Normal",7409: ,4.1
+Jungle River,"$8.00 ,12.5c,Box,Retail,Normal",7410: ,4.1
+Tygurah's Roar,"$10.00 ,11.5c,Box,Retail,Normal",7411: ,4.1
+Yeti's Hideout,"$10.00 ,9.3c,Box,Retail,Normal",7412: ,4.1
+Passage of Jun-Chi,"$10.00 ,10.6c,Box,Retail,Normal",7413: ,4.1
+Elephant Caravan,"$20.00 ,23.3c,Box,Retail,Normal",7414: ,4.1
+Aero Nomad,"$20.00 ,16.7c,Box,Retail,Normal",7415: ,4.1
+Emperor's Ship,"$20.00 ,11.3c,Box,Retail,Normal",7416: ,4.1
+Temple of Mount Everest,"$30.00 ,10.3c,Box,Retail,Normal",7417: ,4.1
+Scorpion Palace,"341,$50.00 ,14.7c,Box,Retail,Normal",7418: ,4.1
+Scorpion Palace and Foam Scimitar,,7418: ,4.1
+Dragon Fortress,"$90.00 ,12.3c,Box,Retail,Normal",7419: ,4.1
+Thunder Blazer,"$8.00 ,11.6c,Box,Retail,Normal",7420: ,4.1
+Red Eagle,"$4.00 ,12.1c,Box,Promotional,Normal",7422: ,4.1
+Mountain Sleigh,"$4.00 ,13.3c,Polybag,Promotional,Normal",7423: ,4.1
+Black Cruiser,"$4.00 ,14.3c,Box,Promotional,Normal",7424: ,4.1
+Tiny's Day and Night Lever,,7435: ,4.1
+Sporty's Jumping Gym,,7436: ,4.1
+Gardening with Stripy,,7437: ,4.1
+Stretchy's Junk Yard,,7439: ,4.1
+Tiny & Friends,,7441: ,2.0
+Tiny,,7446: ,2.0
+Sporty,,7449: ,2.0
+Stretchy,,7450: ,2.0
+Little Robots Tiny Plush,,7455: ,2.0
+Little Robots Messy Plush,,7456: ,2.0
+Little Robots Scary Plush,,7457: ,2.0
+Little Robots Stripy Plush,,7458: ,2.0
+Little Robots Tiny Plush Mini,,7459: ,2.0
+Little Robots Messy Plush Mini,,7460: ,2.0
+Little Robots Scary Plush Mini,,7461: ,2.0
+Little Robots Stripy Plush Mini,,7462: ,2.0
+International Space Station,"$15.00 ,9.3c,Box,Retail - limited,Normal",7467: ,2.0
+Saturn V Moon Mission,"$20.00 ,11.2c,Box,Retail - limited,Normal",7468: ,2.0
+Mission To Mars,"$30.00 ,7.2c,Box,Retail - limited,Normal",7469: ,2.0
+Space Shuttle Discovery-STS-31,"$50.00 ,6.0c,Box,Retail - limited,Normal",7470: ,2.0
+Mars Exploration Rover,"$90.00 ,10.3c,Box,Retail - limited,Normal",7471: ,2.0
+Bangle Minis,"$4.00 ,12.5c,Normal",7501: ,2.0
+Photo Minis,"30,$4.00 ,13.3c,Normal",7502: ,2.0
+Memo Minis,"$4.00 ,16.7c,Normal",7503: ,2.0
+Jewels 'n' Rings,"$7.00 ,9.0c,Normal",7507: ,2.0
+Jewels 'n' Bands,"$7.00 ,9.0c,Normal",7508: ,2.0
+Cool Jewels 'n' Clips,"$7.00 ,10.0c,Normal",7509: ,2.0
+Trendy Tote Hot Pink,"$15.00 ,16.9c,Normal",7510: ,2.0
+Trendy Tote Tangerine,"$15.00 ,16.0c,Normal",7511: ,2.0
+Trendy Tote Sky Blue,"$15.00 ,16.0c,Normal",7512: ,4.0
+Ultimate Design Studio,"$30.00 ,10.7c,Normal",7513: ,4.0
+Cool Room Décor,"$10.00 ,7.6c,Normal",7517: ,4.0
+Cool Room Catchers,"$10.00 ,9.0c,Normal",7518: ,4.0
+Cool Room Frames,"$10.00 ,9.0c,Normal",7519: ,4.0
+Pillow Décor 'N' More,"$20.00 ,19.2c,Normal",7520: ,4.0
+Pretty Punch Activity Set,"$20.00 ,66.7c,Normal",7521: ,4.0
+Let's Party Set,"$20.00 ,31.7c,Normal",7522: ,4.0
+Halloween,,7836: ,4.0
+Pro Stunt,"$4.00 ,13.3c,Box,Retail,Normal",8350: ,4.0
+Slammer Rhino,"$20.00 ,9.1c,Box,Retail,Normal",8353: ,4.0
+Exo Force Bike,"$10.00 ,9.9c,Box,Retail,Normal",8354: ,4.0
+H.O.T. Blaster Bike,"$10.00 ,11.4c,Box,Retail,Normal",8355: ,4.0
+Jungle Monster,"$15.00 ,12.9c,Box,Retail,Normal",8356: ,4.0
+Zonic Strike,"$15.00 ,14.0c,Box,Retail,Normal",8357: ,4.0
+Off-Roader,"$4.00 ,15.4c,Box,Retail,Normal",8358: ,4.0
+Desert Racer,"$4.00 ,14.8c,Box,Retail,Normal",8359: ,4.0
+Track Racer,"$4.00 ,16.7c,Box,Retail,Normal",8360: ,4.0
+Baja Desert Racers,"$40.00 ,12.4c,Box,Retail,Normal",8363: ,4.0
+Multi-Challenge Race Track,"$89.99 ,14.4c,Box,Retail,Normal",8364: ,4.0
+Tuneable Racer,"$70.00 ,35.7c,Box,Retail,Normal",8365: ,4.0
+Supersonic RC,"$130.00 ,30.3c,Box,Retail,Normal",8366: ,4.0
+Nitro Stunt Bike,"$10.00 ,10.9c,Box,Retail,Normal",8370: ,4.0
+Extreme Power Bike,"$10.00 ,10.2c,Box,Retail,Normal",8371: ,4.0
+Williams F1 Team Racer,"$13.00 ,13.3c,Box,Retail,Normal",8374: ,4.0
+Hot Flame RC Car,"$80.00 ,31.1c,Box,Retail - limited,Normal",8376: ,3.0
+Pneumatic Crane Truck,"$85.00 ,10.0c,Box,Retail,Normal",8438: ,3.0
+Fork-Lift Truck,"$6.00 ,8.6c,Box,Retail,Normal",8441: ,3.0
+Dump Truck,"$20.00 ,10.9c,Box,Retail,Normal",8451: ,3.0
+Front-End Loader,"$20.00 ,9.3c,Box,Retail,Normal",8453: ,3.0
+Rescue Truck,"$70.00 ,11.0c,Box,Retail,Normal",8454: ,3.0
+Back-Hoe,"$100.00 ,14.2c,Box,Retail,Normal",8455: ,3.0
+Nuhvok-Kal,"$8.00 ,19.5c,Normal",8573: ,3.0
+Tahnok-Kal,"$8.00 ,19.5c,Normal",8574: ,3.0
+Kohrak-Kal,"$8.00 ,19.5c,Normal",8575: ,3.0
+Lehvak-Kal,"$8.00 ,19.5c,Normal",8576: ,3.0
+Pahrak-Kal,"$8.00 ,19.5c,Normal",8577: ,3.0
+Gahlok-Kal,"$8.00 ,19.5c,Normal",8578: ,3.0
+Kraata,"$2.00 ,66.7c,Normal",8580: ,3.0
+Kopeke,"$4.00 ,16.0c,Normal",8581: ,3.0
+Matoro,"$4.00 ,16.0c,Normal",8582: ,3.0
+Hahli,"$4.00 ,16.0c,Normal",8583: ,3.0
+Hewkii,"$4.00 ,16.0c,Normal",8584: ,3.0
+Hafu,"$4.00 ,16.0c,Normal",8585: ,3.0
+Macku,"$4.00 ,16.0c,Polybag,Normal",8586: ,3.0
+Rahkshi Panrahk,"$9.00 ,20.0c,Normal",8587: ,3.0
+Rahkshi Kurahk,"$9.00 ,20.0c,Normal",8588: ,3.0
+Rahkshi Lerahk,"$9.00 ,20.0c,Normal",8589: ,3.0
+Rahkshi Guurahk,"$9.00 ,20.0c,Normal",8590: ,3.0
+Rahkshi Vorahk,"$9.00 ,20.0c,Normal",8591: ,3.0
+Rahkshi Turahk,"$9.00 ,20.0c,Normal",8592: ,4.4
+Makuta,"$20.00 ,10.1c,Normal",8593: ,4.4
+Jaller and Gukko,"$20.00 ,11.6c,Normal",8594: ,4.4
+Takua and Pewku,"$20.00 ,9.0c,Normal",8595: ,4.4
+Takanuva,"$30.00 ,15.0c,Normal",8596: ,4.4
+Krana-Kal,"5,$2.00 ,40.0c,Box,Normal",8599: ,4.4
+Krana-Kal Bag,,8600: ,4.4
+Baby Discovery Set,,9017: ,4.4
+Baby Stack 'n' Learn Set,,9019: ,4.4
+Baby Stack 'n' Learn Set,,9026: ,4.4
+Vehicles Set,"30,$91.00 ,303.3c,Normal",9031: ,4.4
+Bulk Set with Special Bricks,"$32.00 ,5.2c,Normal",9306: ,4.4
+Journey into Space,"$93.00 ,14.7c,Normal",9320: ,4.4
+Giraffe Table,,9402: ,4.4
+Racer,"$3.50 ,Gear",9405: ,4.4
+Elephant Wall,,9409: ,4.4
+Duplo Bricks,,9412: ,4.4
+Technology Resource Set,"$55.00 ,5.0c,Normal",9649: ,4.4
+Mechanical Engineering,"$150.00 ,47.2c,Normal",9665: ,4.4
+Renewable Energy Set,"$170.00 ,23.3c,Normal",9684: ,4.4
+Chromosomes - Student Set,,9743: ,4.4
+Robo Technology Set with Serial Transmitter,"$150.00 ,68.5c,Normal",9785: ,4.4
+Robo Technology Set with USB Transmitter,"$150.00 ,69.1c,Normal",9786: ,4.4
+FIRST LEGO League Challenge 2003 - Mission Mars,,9788: ,4.4
+Team Challenge Set with Serial Transmitter,"$200.00 ,24.0c,Normal",9793: ,4.4
+Team Challenge Set with USB Transmitter,"$200.00 ,24.1c,Normal",9794: ,4.0
+Multi Table Small,,9809: ,4.0
+Seats for Multi Table,,9817: ,4.0
+USS Constellation,"$60.00 ,6.2c,Box,LEGO exclusive,Normal",10021: ,4.0
+Train Engine Shed,"$70.00 | ,10.5c,Box,LEGO exclusive,UK/EU: Oct 07,Normal",10027: ,4.0
+Lunar Lander,"$40.00 ,8.8c,Box,LEGO exclusive,Normal",10029: ,4.0
+Main Street,"$65.00 ,10.6c,Box,LEGO exclusive,Normal",10041: ,4.0
+U.S. Flag,"$3.00 ,8.6c,Polybag,LEGO exclusive,Normal",10042: ,4.0
+Intelligent Locomotive,"4,$55.00 ,1375.0c,Normal",10052: ,4.0
+Mr. Bunny,"$2.50 ,10.0c,Polybag,LEGO exclusive,Normal",10071: ,4.0
+Technic Beams,"$9.99 | ,17.8c,Polybag,LEGO exclusive,USA: Oct 07,Normal",10072: ,4.0
+Technic Bushes,"$9.99 | ,7.7c,Polybag,LEGO exclusive,USA: Oct 07,Normal",10073: ,4.0
+Technic Cross Axles,"$10.00 | ,14.7c,Polybag,LEGO exclusive,UK/EU: Feb 08,Normal",10074: ,4.0
+Technic Gear Wheels,"$12.99 | ,35.1c,Polybag,LEGO exclusive,USA: Oct 07,Normal",10076: ,4.0
+Technic Motor,"$13.00 ,23.6c,Polybag,LEGO exclusive,Normal",10077: ,4.0
+Train Connection Wire,"1,$8.99 | ,899.0c,Polybag,LEGO exclusive,USA: Oct 07, UK/EU: Oct 07,Normal",10078: ,4.0
+Snowman,"$2.50 ,6.0c,Polybag,LEGO exclusive,Normal",10079: ,4.0
+Angel,"$2.49 | ,7.5c,Polybag,LEGO exclusive,USA: Jan 08, UK/EU: Oct 07,Normal",10080: ,4.0
+Turkey,"$3.50 ,6.5c,Polybag,LEGO exclusive,Normal",10090: ,4.0
+NBA Basketball Teams,"$10.00 ,50.0c,Box,Retail,Normal",10121: ,4.0
+Cloud City,"$100.00 ,14.3c,Box,LEGO exclusive,Normal",10123: ,4.0
+Wright Flyer,"$60.00 ,9.0c,Box,LEGO exclusive,Normal",10124: ,4.0
+NHL All Teams Set,"$9.00 ,15.3c,Box,Retail,Normal",10127: ,4.0
+Train Level Crossing,"$50.00 ,15.3c,Box,LEGO exclusive,Normal",10128: ,4.0
+Rebel Snowspeeder,"$130.00 ,8.9c,Box,Retail - limited,Normal",10129: ,4.0
+Takutanuva,"$50.00 ,12.5c,Collection",10201: ,4.0
+Drome Racers,,14642: ,4.0
+Drome Racers,,14643: ,4.0
+BIONICLE: The Game,,14680: ,4.0
+BIONICLE: The Game,,14681: ,4.0
+BIONICLE: The Game,,14682: ,4.0
+BIONICLE: The Game,,14683: ,4.0
+BIONICLE: The Game,,14684: ,4.0
+Slammer Stadium,"22,$40.00 ,181.8c,Box,Retail,Collection",65182: ,4.0
+Street Basketball set with Spalding mini-basketball,,65221: ,4.0
+Rahkshi Kaita Za Pack,,65277: ,4.0
+Bionicle twin-pack with gold mask,"50,$8.00 ,16.0c,Collection",65295: ,4.0
+Bionicle twin-pack with gold mask,"50,$8.00 ,16.0c,Collection",65296: ,4.0
+Bionicle twin-pack with gold mask,"50,$8.00 ,16.0c,Collection",65297: ,4.0
+Bonus/Value Pack,,65355: ,4.0
+Bonus/Value Pack,,65407: ,4.0
+Bonus/Value Pack,,65418: ,4.0
+Bonus/Value Pack,,65448: ,4.0
+Bonus/Value Pack,,65451: ,4.0
+Bonus/Value Pack,,65456: ,4.0
+Bonus/Value Pack,,65705: ,4.0
+Johnny Thunder,,850252: ,4.0
+Snowtrooper,,850352: ,4.0
+C-3PO,,850356: ,4.0
+"NBA, Heat 04 ",,850691: ,4.0
+"NBA, New Orleans 04",,850698: ,
+Orient Expedition Clock,,4182615: ,
+Alpha Team Mission Deep Sea Watch,,4193350: ,
+Alpha Team Mission Deep Sea Clock,"$25.00 ,Box,Retail - limited,Gear",4193351: ,
+Bionicle Tahu Nuva Watch,"$25.00 ,Gear",4193352: ,
+Bionicle Tahu Nuva Clock,,4193353: ,
+Racers Drome Watch,"$25.00 ,Gear",4193354: ,
+Racers Drome Clock,"$25.00 ,Gear",4193355: ,
+Spybotics Watch,"$25.00 ,Gear",4193358: ,
+Coloured Pencils,,4202113: ,
+Umbrella Minifigure,,4202458: ,
+Orient Expedition Memo Pad Holder with Pencil,,4202509: ,
+Football,,4202562: ,
+LEGO Blue Brick Key Chain,,4202580: ,
+Maharaja Lallu Key Chain,,4202596: ,
+Sam Sinister Key Chain,,4202599: ,
+"Magnets, Small Classic Set",,4202677: ,
+"Magnets, Medium Classic Set",,4202678: ,
+"Magnets, Large Classic Set",,4202679: ,
+Magnetic Bricks,,4202681: ,
+Basketball Cap,,4202699: ,
+Hockey Cap,,4202705: ,
+Santa Key Chain,,4204330: ,
+LEGO Red Brick Key Chain,,4204333: ,
+Star Wars MINI Bonus Pack,,4207901: ,
+{Green photo frame with bird},,4212659: ,4.0
+{Grey photo frame with king},,4212662: ,4.0
+"Photo Frame, Adventurers",,4212666: ,4.0
+Xtreme Skateboard Key Chain,,4213160: ,4.0
+Pirate,,4224458: ,4.0
+Red Racer,,4224461: ,4.0
+Sherpa Sangye Dorje ,,4224635: ,4.0
+Pippin Reed ,,4224648: ,4.0
+Vakama (Promotional Pack),,4228383: ,4.0
+Basketball Clock,,,4.0
+Bionicle: Mask Of Light DVD,,,4.0
+Virtual LEGO: The Official LDraw.org guide to LDraw Tools for Windows,,,4.0
+Mosaic Cat,,,4.0
+Mosaic Dino,,,4.0
+Mosaic Johnny Thunder,,,4.0
+Mosaic Tiger,,,4.0
+Bionicle Key Chain,"$2.99 ,Gear",,4.0
+Santa Claus,,,4.0
+Reindeer,,,4.0
+Christmas Tree,,,4.0
+King,,,4.0
+LEGOLAND Rose (glued),,,4.0
+Swan,,,4.0
+Small Duck,"8,$0.00 ,0.0c,None (loose parts),Promotional,Other",,4.0
+Deer,,,4.0
+Luke Skywalker Pen,,,
+Value Pack (Exclusive to K-Mart Australia),,,
